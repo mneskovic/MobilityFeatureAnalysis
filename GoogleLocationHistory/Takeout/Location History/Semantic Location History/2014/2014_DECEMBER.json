@@ -1,0 +1,577 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 403535430,
+        "longitudeE7" : -752701230,
+        "placeId" : "ChIJjXX0SxUexIkRMRN-AGPCK2E",
+        "locationConfidence" : 34.524845
+      },
+      "duration" : {
+        "startTimestampMs" : "1419115284147",
+        "endTimestampMs" : "1419120901134"
+      },
+      "centerLatE7" : 403539256,
+      "centerLngE7" : -752709867,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 403532150,
+        "longitudeE7" : -752717550,
+        "placeId" : "ChIJeegU5T8exIkRuN9i8hhUDSs",
+        "name" : "Nevalls Ken III",
+        "locationConfidence" : 21.765503
+      }, {
+        "latitudeE7" : 403537216,
+        "longitudeE7" : -752698545,
+        "placeId" : "ChIJYUC3ShUexIkRme0d9U0OxBQ",
+        "name" : "Hazel Lining Photography",
+        "locationConfidence" : 10.214838
+      }, {
+        "latitudeE7" : 403518569,
+        "longitudeE7" : -752706038,
+        "placeId" : "ChIJn4F7ehUexIkRHj7-1c8dN-4",
+        "name" : "Parallax South",
+        "locationConfidence" : 9.246003
+      }, {
+        "latitudeE7" : 403566734,
+        "longitudeE7" : -752719417,
+        "placeId" : "ChIJG_S50kEexIkRc1vmc-NMtPs",
+        "name" : "Peachtree Investment Group Llc",
+        "locationConfidence" : 4.6487646
+      }, {
+        "latitudeE7" : 403566734,
+        "longitudeE7" : -752719417,
+        "placeId" : "ChIJGQF300EexIkRNTlgKv65tuI",
+        "name" : "On The Go Courier",
+        "locationConfidence" : 4.170161
+      }, {
+        "latitudeE7" : 403522119,
+        "longitudeE7" : -752736832,
+        "placeId" : "ChIJoxcjrj8exIkRs-Wen0kRtMM",
+        "name" : "Design & Development",
+        "locationConfidence" : 2.3408663
+      }, {
+        "latitudeE7" : 403566734,
+        "longitudeE7" : -752719417,
+        "placeId" : "ChIJGQF300EexIkRPewiFfxaTtE",
+        "name" : "Ivend LLC",
+        "locationConfidence" : 2.146266
+      }, {
+        "latitudeE7" : 403497470,
+        "longitudeE7" : -752694720,
+        "placeId" : "ChIJiSk6wRUexIkRag8bDFMrFrw",
+        "name" : "Dr. Kim P. Kuhar, Do",
+        "locationConfidence" : 1.9804425
+      }, {
+        "latitudeE7" : 403501392,
+        "longitudeE7" : -752703253,
+        "placeId" : "ChIJ-eAqiz0exIkRkwFuRa5XvKA",
+        "name" : "Elite Outdoor Structures, LLC",
+        "locationConfidence" : 1.8132925
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 403539256,
+        "longitudeE7" : -752709867
+      },
+      "endLocation" : {
+        "latitudeE7" : 399563620,
+        "longitudeE7" : -748786990
+      },
+      "duration" : {
+        "startTimestampMs" : "1419120901134",
+        "endTimestampMs" : "1419125512154"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 401496559,
+          "lngE7" : -750204224,
+          "timestampMs" : "1419123318236",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 399703039,
+          "lngE7" : -748797508,
+          "timestampMs" : "1419125129137",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399554000,
+        "longitudeE7" : -748782000,
+        "placeId" : "ChIJvWbfQPw1wYkRs_-lvDddORA",
+        "address" : "550 Union Mill Rd\nMt Laurel Township, NJ 08054\nUSA",
+        "name" : "Village Presbyterian Church",
+        "locationConfidence" : 56.540157
+      },
+      "duration" : {
+        "startTimestampMs" : "1419125512154",
+        "endTimestampMs" : "1419132912091"
+      },
+      "centerLatE7" : 399563620,
+      "centerLngE7" : -748786990,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399554000,
+        "longitudeE7" : -748782000,
+        "placeId" : "ChIJvWbfQPw1wYkRsxRooe_1JSs",
+        "name" : "Fisher Matthew",
+        "locationConfidence" : 25.775637
+      }, {
+        "latitudeE7" : 399554675,
+        "longitudeE7" : -748790345,
+        "placeId" : "ChIJxew_b_w1wYkRbjM8Hp_G83I",
+        "name" : "Fresh Scent Cleaning",
+        "locationConfidence" : 6.0473514
+      }, {
+        "latitudeE7" : 399561000,
+        "longitudeE7" : -748769000,
+        "placeId" : "ChIJba_t0v01wYkR-c6jbuihAzE",
+        "name" : "John J Lenart & Associates",
+        "locationConfidence" : 4.15845
+      }, {
+        "latitudeE7" : 399583664,
+        "longitudeE7" : -748798517,
+        "placeId" : "ChIJe01Jyv41wYkRx9-RU81hIpo",
+        "name" : "Goodyear Mileage Sales",
+        "locationConfidence" : 2.6232433
+      }, {
+        "latitudeE7" : 399559728,
+        "longitudeE7" : -748816598,
+        "placeId" : "ChIJNXJvv_s1wYkRH7rargOsnoA",
+        "name" : "Bedding Accents",
+        "locationConfidence" : 2.3141406
+      }, {
+        "latitudeE7" : 399562000,
+        "longitudeE7" : -748811000,
+        "placeId" : "ChIJb2vu6_s1wYkRGcVE7YP-t4M",
+        "name" : "Joshua Dumas Computer Consulting",
+        "locationConfidence" : 0.88392305
+      }, {
+        "latitudeE7" : 399562930,
+        "longitudeE7" : -748762272,
+        "placeId" : "ChIJr0JK2P01wYkRgz4XdhlzIHc",
+        "name" : "Westhead Associates Inc",
+        "locationConfidence" : 0.6820241
+      }, {
+        "latitudeE7" : 399559728,
+        "longitudeE7" : -748816598,
+        "placeId" : "ChIJi3Nvv_s1wYkR0EcE3Zdi5zk",
+        "name" : "Website & Graphic Design Studio",
+        "locationConfidence" : 0.58552325
+      }, {
+        "latitudeE7" : 399575000,
+        "longitudeE7" : -748810000,
+        "placeId" : "ChIJ87DiW_k1wYkRzb7GyF7Myis",
+        "name" : "The Ultimate Carpet Care",
+        "locationConfidence" : 0.19568186
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399563620,
+        "longitudeE7" : -748786990
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105079,
+        "longitudeE7" : -755851662
+      },
+      "duration" : {
+        "startTimestampMs" : "1419132912091",
+        "endTimestampMs" : "1419137601124"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400486992,
+          "lngE7" : -755663615,
+          "timestampMs" : "1419137149995",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.9866
+      },
+      "duration" : {
+        "startTimestampMs" : "1419137601124",
+        "endTimestampMs" : "1419194024865"
+      },
+      "centerLatE7" : 400105079,
+      "centerLngE7" : -755851662,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0042084698
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.003459742
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0017788296
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0015354381
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0014194224
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.4498995E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.5019994E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105079,
+        "longitudeE7" : -755851662
+      },
+      "endLocation" : {
+        "latitudeE7" : 400238167,
+        "longitudeE7" : -756267333
+      },
+      "duration" : {
+        "startTimestampMs" : "1419194024865",
+        "endTimestampMs" : "1419196989245"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400120466,
+          "lngE7" : -755960400,
+          "timestampMs" : "1419194631754",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 400376253,
+          "lngE7" : -756283007,
+          "timestampMs" : "1419195150765",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 400380618,
+          "lngE7" : -756321638,
+          "timestampMs" : "1419196406187",
+          "accuracyMeters" : 15
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400244210,
+        "longitudeE7" : -756269510,
+        "placeId" : "ChIJdYl2iYP0xokRMeYC19_SxGY",
+        "address" : "285 Main St\nExton, PA 19341\nUSA",
+        "name" : "Michaels",
+        "locationConfidence" : 19.350626
+      },
+      "duration" : {
+        "startTimestampMs" : "1419196989245",
+        "endTimestampMs" : "1419199507603"
+      },
+      "centerLatE7" : 400238167,
+      "centerLngE7" : -756267333,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400242520,
+        "longitudeE7" : -756269700,
+        "placeId" : "ChIJ7bDZi4P0xokRaf_fLwynSw0",
+        "name" : "Modell's Sporting Goods",
+        "locationConfidence" : 12.30223
+      }, {
+        "latitudeE7" : 400239664,
+        "longitudeE7" : -756276105,
+        "placeId" : "ChIJF_egiYP0xokRRMr3Qoldn8o",
+        "name" : "Old Navy",
+        "locationConfidence" : 11.354611
+      }, {
+        "latitudeE7" : 400224747,
+        "longitudeE7" : -756274834,
+        "placeId" : "ChIJtdGdxob0xokRVqCZ1cZQv8c",
+        "name" : "Barnes & Noble",
+        "locationConfidence" : 5.6188583
+      }, {
+        "latitudeE7" : 400230342,
+        "longitudeE7" : -756293992,
+        "placeId" : "ChIJH7SrY4b0xokRF7qvyq_BURs",
+        "name" : "Main Street at Exton",
+        "locationConfidence" : 4.760315
+      }, {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "name" : "Great Clips Main Street At Exton",
+        "locationConfidence" : 4.722375
+      }, {
+        "latitudeE7" : 400231511,
+        "longitudeE7" : -756277827,
+        "placeId" : "ChIJn7WQi4P0xokRrwAbTK1btjI",
+        "name" : "Eastern Mountain Sports",
+        "locationConfidence" : 3.9252734
+      }, {
+        "latitudeE7" : 400228591,
+        "longitudeE7" : -756276963,
+        "placeId" : "ChIJPyJii4P0xokRP4x82KgT6kA",
+        "name" : "Cosi",
+        "locationConfidence" : 3.8330755
+      }, {
+        "latitudeE7" : 400221050,
+        "longitudeE7" : -756280800,
+        "placeId" : "ChIJc4eiw4b0xokRUCmPI40Aikc",
+        "name" : "Buca di Beppo - Exton",
+        "locationConfidence" : 3.8219817
+      }, {
+        "latitudeE7" : 400236407,
+        "longitudeE7" : -756281903,
+        "placeId" : "ChIJ6ezHnob0xokRzNZHWzGlTPA",
+        "name" : "Fine Wine & Good Spirits",
+        "locationConfidence" : 3.465452
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400238167,
+        "longitudeE7" : -756267333
+      },
+      "endLocation" : {
+        "latitudeE7" : 399985533,
+        "longitudeE7" : -755679800
+      },
+      "duration" : {
+        "startTimestampMs" : "1419199507603",
+        "endTimestampMs" : "1419200696844"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400236795,
+          "lngE7" : -756275785,
+          "timestampMs" : "1419199507603",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 400094610,
+          "lngE7" : -756120100,
+          "timestampMs" : "1419200112564",
+          "accuracyMeters" : 20
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399988385,
+        "longitudeE7" : -755675927,
+        "placeId" : "ChIJ0bCyfE7yxokRThmK7mRvPE8",
+        "address" : "1375 Boot Rd\nWest Chester, PA 19380\nUSA",
+        "name" : "GIANT Food Stores",
+        "locationConfidence" : 26.420572
+      },
+      "duration" : {
+        "startTimestampMs" : "1419200696844",
+        "endTimestampMs" : "1419203248778"
+      },
+      "centerLatE7" : 399985533,
+      "centerLngE7" : -755679800,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399987729,
+        "longitudeE7" : -755672813,
+        "placeId" : "ChIJk8ObhU_yxokRrS4iJlK6PDc",
+        "name" : "Starbucks",
+        "locationConfidence" : 21.592794
+      }, {
+        "latitudeE7" : 399986699,
+        "longitudeE7" : -755671406,
+        "placeId" : "ChIJW6xYk07yxokRPaD4otePNA8",
+        "name" : "Subway",
+        "locationConfidence" : 10.432983
+      }, {
+        "latitudeE7" : 399985843,
+        "longitudeE7" : -755669179,
+        "placeId" : "ChIJxb8AY07yxokRgAlRr157kRY",
+        "name" : "Hersheys Mill Village Square",
+        "locationConfidence" : 8.676494
+      }, {
+        "latitudeE7" : 400041852,
+        "longitudeE7" : -755528166,
+        "placeId" : "ChIJxQiGDFnyxokRE2bn84VcRpw",
+        "name" : "Hersheys Mill Golf Club",
+        "locationConfidence" : 5.8354144
+      }, {
+        "latitudeE7" : 399987876,
+        "longitudeE7" : -755675287,
+        "placeId" : "ChIJP41fk07yxokRBX4XS2xDIPI",
+        "name" : "PNC Bank (inside Giant)",
+        "locationConfidence" : 5.6170964
+      }, {
+        "latitudeE7" : 399987767,
+        "longitudeE7" : -755677055,
+        "placeId" : "ChIJP41fk07yxokRAONMUCi-TDg",
+        "name" : "Blockbuster Express",
+        "locationConfidence" : 2.248047
+      }, {
+        "latitudeE7" : 399988648,
+        "longitudeE7" : -755676366,
+        "placeId" : "ChIJf-IqfU7yxokRgD36CIARbgg",
+        "name" : "Giant Pharmacy",
+        "locationConfidence" : 2.0650046
+      }, {
+        "latitudeE7" : 399983996,
+        "longitudeE7" : -755691306,
+        "placeId" : "ChIJuaffBU3yxokRxoPBaeYUwd4",
+        "name" : "BB&T",
+        "locationConfidence" : 1.6615902
+      }, {
+        "latitudeE7" : 399984010,
+        "longitudeE7" : -755691871,
+        "placeId" : "ChIJx4xfk07yxokRQeMnuk5mfcg",
+        "name" : "ATM (PNC Bank)",
+        "locationConfidence" : 1.5109773
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399985533,
+        "longitudeE7" : -755679800
+      },
+      "endLocation" : {
+        "latitudeE7" : 400106500,
+        "longitudeE7" : -755852025
+      },
+      "duration" : {
+        "startTimestampMs" : "1419203248778",
+        "endTimestampMs" : "1419204006773"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400091622,
+          "lngE7" : -755854143,
+          "timestampMs" : "1419203852764",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.95852
+      },
+      "duration" : {
+        "startTimestampMs" : "1419204006773",
+        "endTimestampMs" : "1419207718624"
+      },
+      "centerLatE7" : 400106500,
+      "centerLngE7" : -755852025,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.013299475
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.010901156
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.006456255
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.005234336
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.004435705
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.0011546091
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

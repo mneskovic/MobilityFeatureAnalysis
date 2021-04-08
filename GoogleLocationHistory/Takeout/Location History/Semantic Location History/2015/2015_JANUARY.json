@@ -1,0 +1,117 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.92201
+      },
+      "duration" : {
+        "startTimestampMs" : "1420517623326",
+        "endTimestampMs" : "1420518232330"
+      },
+      "centerLatE7" : 400107400,
+      "centerLngE7" : -755850300,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.025905937
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.02067915
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0115759745
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.010862983
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0064906264
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.002471974
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.97911
+      },
+      "duration" : {
+        "startTimestampMs" : "1421636635068",
+        "endTimestampMs" : "1421644539217"
+      },
+      "centerLatE7" : 400105456,
+      "centerLngE7" : -755852117,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.007012553
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0053360565
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0030565031
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0024900367
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0023460214
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 6.492597E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

@@ -1,0 +1,5747 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 39.219044
+      },
+      "duration" : {
+        "startTimestampMs" : "1431787561109",
+        "endTimestampMs" : "1431792758050"
+      },
+      "centerLatE7" : 400367192,
+      "centerLngE7" : -756206900,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400355470,
+        "longitudeE7" : -756215919,
+        "placeId" : "ChIJPXe7Mp70xokRY9YOXrFEqd4",
+        "name" : "Aqua Pennsylvania Inc",
+        "locationConfidence" : 33.122932
+      }, {
+        "latitudeE7" : 400386190,
+        "longitudeE7" : -756221104,
+        "placeId" : "ChIJxaaPBmDzxokRhUMbEjt707Q",
+        "name" : "Dr. Frank P. Tutterice, DO",
+        "locationConfidence" : 7.623289
+      }, {
+        "latitudeE7" : 400367912,
+        "longitudeE7" : -756171177,
+        "placeId" : "ChIJR_dbkWDzxokR9kbkol-nCCw",
+        "name" : "Fast Cash, Inc",
+        "locationConfidence" : 4.455051
+      }, {
+        "latitudeE7" : 400367912,
+        "longitudeE7" : -756171177,
+        "placeId" : "ChIJR_dbkWDzxokRLsdoYZWMgSY",
+        "name" : "4M Engraving",
+        "locationConfidence" : 4.2354174
+      }, {
+        "latitudeE7" : 400345661,
+        "longitudeE7" : -756231686,
+        "placeId" : "ChIJReUlip70xokRxpW3xyzbiKc",
+        "name" : "Main Line Rehab Associates Inc",
+        "locationConfidence" : 3.014814
+      }, {
+        "latitudeE7" : 400345902,
+        "longitudeE7" : -756232608,
+        "placeId" : "ChIJA_uAiZ70xokRW3YDCRHqpDE",
+        "name" : "Carnegie Wealth Management",
+        "locationConfidence" : 1.787752
+      }, {
+        "latitudeE7" : 400342709,
+        "longitudeE7" : -756229084,
+        "placeId" : "ChIJVZ4cip70xokR5XpkKZs9WjA",
+        "name" : "Williams Mark S DDS",
+        "locationConfidence" : 1.5333698
+      }, {
+        "latitudeE7" : 400343156,
+        "longitudeE7" : -756229784,
+        "placeId" : "ChIJ4X4Qip70xokRrLMUa5k40no",
+        "name" : "Mesko Engineering Associates Inc",
+        "locationConfidence" : 1.3668267
+      }, {
+        "latitudeE7" : 400343695,
+        "longitudeE7" : -756230411,
+        "placeId" : "ChIJ738fip70xokRmgBlDupCHYs",
+        "name" : "Lunger Carrie",
+        "locationConfidence" : 1.36039
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400371687,
+          "lngE7" : -756202814,
+          "timestampMs" : "1431789316753",
+          "accuracyMeters" : 7
+        }, {
+          "latE7" : 400368670,
+          "lngE7" : -756207532,
+          "timestampMs" : "1431791357149",
+          "accuracyMeters" : 18
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1431792758050",
+        "endTimestampMs" : "1431793247530"
+      },
+      "distance" : 4121,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400369148,
+          "lngE7" : -756196212
+        }, {
+          "latE7" : 400103988,
+          "lngE7" : -755849533
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98535
+      },
+      "duration" : {
+        "startTimestampMs" : "1431793309047",
+        "endTimestampMs" : "1431794630132"
+      },
+      "centerLatE7" : 400105175,
+      "centerLngE7" : -755851450,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0045102076
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.003897067
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0019231236
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0016312293
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0015821386
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 6.001474E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 5.0175877E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98453
+      },
+      "duration" : {
+        "startTimestampMs" : "1431907686287",
+        "endTimestampMs" : "1431946463698"
+      },
+      "centerLatE7" : 400104968,
+      "centerLngE7" : -755851381,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0047636083
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.004141227
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0019927223
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0017468537
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0016415422
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 6.3915725E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 5.492226E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1431946463698",
+        "endTimestampMs" : "1431946529117"
+      },
+      "distance" : 111,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1431946529117",
+        "endTimestampMs" : "1431947264854"
+      },
+      "distance" : 3844,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400102462,
+          "lngE7" : -755853881
+        }, {
+          "latE7" : 399809684,
+          "lngE7" : -755653228
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 97.42319
+      },
+      "duration" : {
+        "startTimestampMs" : "1431947307183",
+        "endTimestampMs" : "1431948757649"
+      },
+      "centerLatE7" : 399800400,
+      "centerLngE7" : -755655000,
+      "visitConfidence" : 25,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 2.4105213
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.14914836
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.009848402
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0029150092
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.002177937
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.00171157
+      }, {
+        "latitudeE7" : 399814002,
+        "longitudeE7" : -755694444,
+        "placeId" : "ChIJb6jRni3yxokREKl4EwBriak",
+        "name" : "Bible Baptist Church",
+        "locationConfidence" : 2.719002E-4
+      }, {
+        "latitudeE7" : 399820746,
+        "longitudeE7" : -755681368,
+        "placeId" : "ChIJaUkk9DHyxokRRW62FNZNwCk",
+        "name" : "Penn Liberty Bank",
+        "locationConfidence" : 2.1469477E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1431973354056",
+        "endTimestampMs" : "1431974127829"
+      },
+      "distance" : 3724,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399807281,
+          "lngE7" : -755650558
+        }, {
+          "latE7" : 400107307,
+          "lngE7" : -755848770
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98392
+      },
+      "duration" : {
+        "startTimestampMs" : "1431974218884",
+        "endTimestampMs" : "1431985862510"
+      },
+      "centerLatE7" : 400105241,
+      "centerLngE7" : -755851810,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0042167236
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0041841697
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0033816919
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0018100329
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.001523175
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.363549E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.29494E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98392
+      },
+      "endLocation" : {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "address" : "273 Main St\nExton, PA 19341\nUSA",
+        "name" : "Great Clips",
+        "locationConfidence" : 72.337006
+      },
+      "duration" : {
+        "startTimestampMs" : "1431985862510",
+        "endTimestampMs" : "1431986460291"
+      },
+      "distance" : 3944,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104026,
+          "lngE7" : -755849456
+        }, {
+          "latE7" : 400236511,
+          "lngE7" : -756285018
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "address" : "273 Main St\nExton, PA 19341\nUSA",
+        "name" : "Great Clips",
+        "locationConfidence" : 72.337006
+      },
+      "duration" : {
+        "startTimestampMs" : "1431986467586",
+        "endTimestampMs" : "1431987769394"
+      },
+      "centerLatE7" : 400236075,
+      "centerLngE7" : -756284300,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400230342,
+        "longitudeE7" : -756293992,
+        "placeId" : "ChIJH7SrY4b0xokRF7qvyq_BURs",
+        "name" : "Main Street at Exton",
+        "locationConfidence" : 4.2137837
+      }, {
+        "latitudeE7" : 400236407,
+        "longitudeE7" : -756281903,
+        "placeId" : "ChIJ6ezHnob0xokRzNZHWzGlTPA",
+        "name" : "Fine Wine & Good Spirits",
+        "locationConfidence" : 4.0447803
+      }, {
+        "latitudeE7" : 400239664,
+        "longitudeE7" : -756276105,
+        "placeId" : "ChIJF_egiYP0xokRRMr3Qoldn8o",
+        "name" : "Old Navy",
+        "locationConfidence" : 1.7110379
+      }, {
+        "latitudeE7" : 400235068,
+        "longitudeE7" : -756287147,
+        "placeId" : "ChIJE2KCj4b0xokRFve0qCYTk10",
+        "name" : "Maggie Moo's Ice Cream and Treatery",
+        "locationConfidence" : 1.5256559
+      }, {
+        "latitudeE7" : 400231511,
+        "longitudeE7" : -756277827,
+        "placeId" : "ChIJn7WQi4P0xokRrwAbTK1btjI",
+        "name" : "Eastern Mountain Sports",
+        "locationConfidence" : 1.3233913
+      }, {
+        "latitudeE7" : 400232979,
+        "longitudeE7" : -756279450,
+        "placeId" : "ChIJ802Vi4P0xokRGyQuda5mO9I",
+        "name" : "Pier 1 Imports",
+        "locationConfidence" : 1.2695421
+      }, {
+        "latitudeE7" : 400221050,
+        "longitudeE7" : -756280800,
+        "placeId" : "ChIJc4eiw4b0xokRUCmPI40Aikc",
+        "name" : "Buca di Beppo - Exton",
+        "locationConfidence" : 1.2318658
+      }, {
+        "latitudeE7" : 400227928,
+        "longitudeE7" : -756282653,
+        "placeId" : "ChIJqTzAmYb0xokRp4FO8Ve9afY",
+        "name" : "Appetites on Main",
+        "locationConfidence" : 1.1893853
+      }, {
+        "latitudeE7" : 400224747,
+        "longitudeE7" : -756274834,
+        "placeId" : "ChIJtdGdxob0xokRVqCZ1cZQv8c",
+        "name" : "Barnes & Noble",
+        "locationConfidence" : 1.149348
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "address" : "273 Main St\nExton, PA 19341\nUSA",
+        "name" : "Great Clips",
+        "locationConfidence" : 72.337006
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.97527
+      },
+      "duration" : {
+        "startTimestampMs" : "1431987777112",
+        "endTimestampMs" : "1431988393461"
+      },
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400236282,
+          "lngE7" : -756284866
+        }, {
+          "latE7" : 400105400,
+          "lngE7" : -755859832
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.97527
+      },
+      "duration" : {
+        "startTimestampMs" : "1431988393461",
+        "endTimestampMs" : "1431993462437"
+      },
+      "centerLatE7" : 400105808,
+      "centerLngE7" : -755850683,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0073342687
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0069862218
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0031558324
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.002936459
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0024078242
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.0010315386
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 8.7288575E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1431993481595",
+        "endTimestampMs" : "1431993777823"
+      },
+      "distance" : 2478,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400163070,
+        "longitudeE7" : -755585770,
+        "placeId" : "ChIJQ-cDPvHyxokRSh_XPD4pi28",
+        "address" : "1516 Tanglewood Dr\nWest Chester, PA 19380\nUSA",
+        "name" : "Humaninhuman Records",
+        "locationConfidence" : 45.181694
+      },
+      "duration" : {
+        "startTimestampMs" : "1431993851236",
+        "endTimestampMs" : "1431998622334"
+      },
+      "centerLatE7" : 400173800,
+      "centerLngE7" : -755567311,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRQvXuv2uapYM",
+        "name" : "Ultraclean",
+        "locationConfidence" : 24.489206
+      }, {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRU5AyDCA1mOY",
+        "name" : "Accubright Systems LLC",
+        "locationConfidence" : 21.062326
+      }, {
+        "latitudeE7" : 400150259,
+        "longitudeE7" : -755576540,
+        "placeId" : "ChIJg3fPtPbyxokRwSAcT9BT0hI",
+        "name" : "RTI Employee Benefit Programs",
+        "locationConfidence" : 9.266773
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400163070,
+        "longitudeE7" : -755585770,
+        "placeId" : "ChIJQ-cDPvHyxokRSh_XPD4pi28",
+        "address" : "1516 Tanglewood Dr\nWest Chester, PA 19380\nUSA",
+        "name" : "Humaninhuman Records",
+        "locationConfidence" : 45.181694
+      },
+      "endLocation" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "address" : "1538 Millrace Lane, West Chester, Pennsylvania 19380, United States",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 92.23502
+      },
+      "duration" : {
+        "startTimestampMs" : "1431998653655",
+        "endTimestampMs" : "1431998840192"
+      },
+      "distance" : 192,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400172996,
+          "lngE7" : -755569458
+        }, {
+          "latE7" : 400176162,
+          "lngE7" : -755544128
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "address" : "1538 Millrace Lane, West Chester, Pennsylvania 19380, United States",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 92.23502
+      },
+      "duration" : {
+        "startTimestampMs" : "1431998840192",
+        "endTimestampMs" : "1431999383191"
+      },
+      "centerLatE7" : 400174633,
+      "centerLngE7" : -755543933,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRQvXuv2uapYM",
+        "name" : "Ultraclean",
+        "locationConfidence" : 4.173596
+      }, {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRU5AyDCA1mOY",
+        "name" : "Accubright Systems LLC",
+        "locationConfidence" : 3.5913813
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "address" : "1538 Millrace Lane, West Chester, Pennsylvania 19380, United States",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 92.23502
+      },
+      "endLocation" : {
+        "latitudeE7" : 400163070,
+        "longitudeE7" : -755585770,
+        "placeId" : "ChIJQ-cDPvHyxokRSh_XPD4pi28",
+        "address" : "1516 Tanglewood Dr\nWest Chester, PA 19380\nUSA",
+        "name" : "Humaninhuman Records",
+        "locationConfidence" : 48.28913
+      },
+      "duration" : {
+        "startTimestampMs" : "1431999383191",
+        "endTimestampMs" : "1431999586356"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400175666,
+          "lngE7" : -755545501
+        }, {
+          "latE7" : 400168800,
+          "lngE7" : -755572433
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400163070,
+        "longitudeE7" : -755585770,
+        "placeId" : "ChIJQ-cDPvHyxokRSh_XPD4pi28",
+        "address" : "1516 Tanglewood Dr\nWest Chester, PA 19380\nUSA",
+        "name" : "Humaninhuman Records",
+        "locationConfidence" : 48.28913
+      },
+      "duration" : {
+        "startTimestampMs" : "1431999586356",
+        "endTimestampMs" : "1432006497147"
+      },
+      "centerLatE7" : 400172656,
+      "centerLngE7" : -755574539,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRQvXuv2uapYM",
+        "name" : "Ultraclean",
+        "locationConfidence" : 23.090454
+      }, {
+        "latitudeE7" : 400163783,
+        "longitudeE7" : -755573805,
+        "placeId" : "ChIJmZ-rY_HyxokRU5AyDCA1mOY",
+        "name" : "Accubright Systems LLC",
+        "locationConfidence" : 19.859306
+      }, {
+        "latitudeE7" : 400150259,
+        "longitudeE7" : -755576540,
+        "placeId" : "ChIJg3fPtPbyxokRwSAcT9BT0hI",
+        "name" : "RTI Employee Benefit Programs",
+        "locationConfidence" : 8.761109
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432006535340",
+        "endTimestampMs" : "1432006968694"
+      },
+      "distance" : 2489,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98422
+      },
+      "duration" : {
+        "startTimestampMs" : "1432007045125",
+        "endTimestampMs" : "1432045401629"
+      },
+      "centerLatE7" : 400105138,
+      "centerLngE7" : -755851826,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.004161763
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.004065467
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0033108403
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0017689647
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0015144789
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.2800117E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.2645523E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98422
+      },
+      "endLocation" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 62.876972
+      },
+      "duration" : {
+        "startTimestampMs" : "1432045401629",
+        "endTimestampMs" : "1432045996222"
+      },
+      "distance" : 4199,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400105056,
+          "lngE7" : -755848541
+        }, {
+          "latE7" : 400367469,
+          "lngE7" : -756212539
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 62.876972
+      },
+      "duration" : {
+        "startTimestampMs" : "1432046006634",
+        "endTimestampMs" : "1432056741173"
+      },
+      "centerLatE7" : 400366112,
+      "centerLngE7" : -756208515,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400355470,
+        "longitudeE7" : -756215919,
+        "placeId" : "ChIJPXe7Mp70xokRY9YOXrFEqd4",
+        "name" : "Aqua Pennsylvania Inc",
+        "locationConfidence" : 27.1794
+      }, {
+        "latitudeE7" : 400386190,
+        "longitudeE7" : -756221104,
+        "placeId" : "ChIJxaaPBmDzxokRhUMbEjt707Q",
+        "name" : "Dr. Frank P. Tutterice, DO",
+        "locationConfidence" : 1.2438579
+      }, {
+        "latitudeE7" : 400345902,
+        "longitudeE7" : -756232608,
+        "placeId" : "ChIJA_uAiZ70xokRW3YDCRHqpDE",
+        "name" : "Carnegie Wealth Management",
+        "locationConfidence" : 1.0851071
+      }, {
+        "latitudeE7" : 400341951,
+        "longitudeE7" : -756230972,
+        "placeId" : "ChIJh3Erip70xokR2EzqAFBDB2E",
+        "name" : "Oriental Medicine",
+        "locationConfidence" : 0.8863661
+      }, {
+        "latitudeE7" : 400345952,
+        "longitudeE7" : -756235602,
+        "placeId" : "ChIJv949iZ70xokRo8HONzU7LvM",
+        "name" : "The Law Offices of Michelle A. Fioravanti, P.C.",
+        "locationConfidence" : 0.7731013
+      }, {
+        "latitudeE7" : 400343156,
+        "longitudeE7" : -756229784,
+        "placeId" : "ChIJ4X4Qip70xokRrLMUa5k40no",
+        "name" : "Mesko Engineering Associates Inc",
+        "locationConfidence" : 0.73809165
+      }, {
+        "latitudeE7" : 400341415,
+        "longitudeE7" : -756234591,
+        "placeId" : "ChIJJ6BhiZ70xokRxvOpH4BMDss",
+        "name" : "Andresen Advertising",
+        "locationConfidence" : 0.7031214
+      }, {
+        "latitudeE7" : 400341511,
+        "longitudeE7" : -756233025,
+        "placeId" : "ChIJez7Wi570xokR5NkNM5xWgYQ",
+        "name" : "Dr. Steven L. Atlas, DMD",
+        "locationConfidence" : 0.6708979
+      }, {
+        "latitudeE7" : 400344593,
+        "longitudeE7" : -756230280,
+        "placeId" : "ChIJ2Y4iip70xokRB7dXZ8aYQGE",
+        "name" : "Benefit Consulting Group LLC",
+        "locationConfidence" : 0.60700214
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400363029,
+          "lngE7" : -756208769,
+          "timestampMs" : "1432048566208",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 400367552,
+          "lngE7" : -756205841,
+          "timestampMs" : "1432054174695",
+          "accuracyMeters" : 9
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 62.876972
+      },
+      "endLocation" : {
+        "latitudeE7" : 400343651,
+        "longitudeE7" : -756266659,
+        "placeId" : "ChIJ6aagsp70xokRMRVQc93QtHY",
+        "address" : "153 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Wendy's",
+        "locationConfidence" : 41.088913
+      },
+      "duration" : {
+        "startTimestampMs" : "1432056741173",
+        "endTimestampMs" : "1432057309372"
+      },
+      "distance" : 516,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400368080,
+          "lngE7" : -756211318
+        }, {
+          "latE7" : 400342407,
+          "lngE7" : -756264038
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400343651,
+        "longitudeE7" : -756266659,
+        "placeId" : "ChIJ6aagsp70xokRMRVQc93QtHY",
+        "address" : "153 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Wendy's",
+        "locationConfidence" : 41.088913
+      },
+      "duration" : {
+        "startTimestampMs" : "1432057350287",
+        "endTimestampMs" : "1432059165182"
+      },
+      "centerLatE7" : 400343512,
+      "centerLngE7" : -756266488,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400340993,
+        "longitudeE7" : -756275972,
+        "placeId" : "ChIJm6wzX5n0xokR-CeqhRHKiz0",
+        "name" : "Panera Bread",
+        "locationConfidence" : 17.48285
+      }, {
+        "latitudeE7" : 400346160,
+        "longitudeE7" : -756272089,
+        "placeId" : "ChIJITqVZ6gbxYkR5CdIdd3bPA8",
+        "name" : "Men's Wearhouse",
+        "locationConfidence" : 9.46621
+      }, {
+        "latitudeE7" : 400350443,
+        "longitudeE7" : -756291990,
+        "placeId" : "ChIJKaUyQEPzxokRnmT9wZFDtAI",
+        "name" : "Fairfield Place Shopping Center",
+        "locationConfidence" : 3.9204345
+      }, {
+        "latitudeE7" : 400351480,
+        "longitudeE7" : -756274220,
+        "placeId" : "ChIJjZsWOJn0xokREEe2R7Nc7cY",
+        "name" : "GIANT Food Stores",
+        "locationConfidence" : 2.5354526
+      }, {
+        "latitudeE7" : 400341050,
+        "longitudeE7" : -756276002,
+        "placeId" : "ChIJm6wzX5n0xokRjY8Z2YEEsnQ",
+        "name" : "Panera Bread",
+        "locationConfidence" : 1.8251351
+      }, {
+        "latitudeE7" : 400308554,
+        "longitudeE7" : -756246261,
+        "placeId" : "ChIJTwAuWpz0xokRNfjGl_ZkH4U",
+        "name" : "Exton Square Mall",
+        "locationConfidence" : 1.7415735
+      }, {
+        "latitudeE7" : 400352786,
+        "longitudeE7" : -756275277,
+        "placeId" : "ChIJV1YrN5r0xokRzg_R1h8F0cI",
+        "name" : "Giant Pharmacy",
+        "locationConfidence" : 1.214654
+      }, {
+        "latitudeE7" : 400349089,
+        "longitudeE7" : -756295019,
+        "placeId" : "ChIJKR5OcZn0xokRLw_-fQyX6SM",
+        "locationConfidence" : 1.1607709
+      }, {
+        "latitudeE7" : 400330195,
+        "longitudeE7" : -756276699,
+        "placeId" : "ChIJUzP86Jv0xokRdruo4nPeiZM",
+        "name" : "US Post Office",
+        "locationConfidence" : 0.79677445
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432059345197",
+        "endTimestampMs" : "1432060034148"
+      },
+      "distance" : 469,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400343971,
+          "lngE7" : -756268615
+        }, {
+          "latE7" : 400368232,
+          "lngE7" : -756211090
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 52.517784
+      },
+      "duration" : {
+        "startTimestampMs" : "1432060034148",
+        "endTimestampMs" : "1432069099132"
+      },
+      "centerLatE7" : 400364865,
+      "centerLngE7" : -756208896,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400355470,
+        "longitudeE7" : -756215919,
+        "placeId" : "ChIJPXe7Mp70xokRY9YOXrFEqd4",
+        "name" : "Aqua Pennsylvania Inc",
+        "locationConfidence" : 26.116934
+      }, {
+        "latitudeE7" : 400339947,
+        "longitudeE7" : -756193322,
+        "placeId" : "ChIJMdtXlWHzxokRJXEnHe1IW_0",
+        "name" : "Brians House",
+        "locationConfidence" : 5.1072803
+      }, {
+        "latitudeE7" : 400339947,
+        "longitudeE7" : -756193322,
+        "placeId" : "ChIJMdtXlWHzxokRH5KlrbUWEFs",
+        "name" : "Collective ConSERVation",
+        "locationConfidence" : 4.6471024
+      }, {
+        "latitudeE7" : 400339947,
+        "longitudeE7" : -756193322,
+        "placeId" : "ChIJMdtXlWHzxokRhsgQXx0zgPA",
+        "name" : "Community Homes",
+        "locationConfidence" : 1.474189
+      }, {
+        "latitudeE7" : 400345902,
+        "longitudeE7" : -756232608,
+        "placeId" : "ChIJA_uAiZ70xokRW3YDCRHqpDE",
+        "name" : "Carnegie Wealth Management",
+        "locationConfidence" : 1.2686995
+      }, {
+        "latitudeE7" : 400386190,
+        "longitudeE7" : -756221104,
+        "placeId" : "ChIJxaaPBmDzxokRhUMbEjt707Q",
+        "name" : "Dr. Frank P. Tutterice, DO",
+        "locationConfidence" : 0.86851317
+      }, {
+        "latitudeE7" : 400343156,
+        "longitudeE7" : -756229784,
+        "placeId" : "ChIJ4X4Qip70xokRrLMUa5k40no",
+        "name" : "Mesko Engineering Associates Inc",
+        "locationConfidence" : 0.747339
+      }, {
+        "latitudeE7" : 400341951,
+        "longitudeE7" : -756230972,
+        "placeId" : "ChIJh3Erip70xokR2EzqAFBDB2E",
+        "name" : "Oriental Medicine",
+        "locationConfidence" : 0.7462366
+      }, {
+        "latitudeE7" : 400344593,
+        "longitudeE7" : -756230280,
+        "placeId" : "ChIJ2Y4iip70xokRB7dXZ8aYQGE",
+        "name" : "Benefit Consulting Group LLC",
+        "locationConfidence" : 0.7303497
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432069116498",
+        "endTimestampMs" : "1432069412918"
+      },
+      "distance" : 129,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432069496449",
+        "endTimestampMs" : "1432070336443"
+      },
+      "distance" : 5353,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400368690,
+          "lngE7" : -756195907
+        }, {
+          "latE7" : 400104370,
+          "lngE7" : -755849151
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98652
+      },
+      "duration" : {
+        "startTimestampMs" : "1432070336443",
+        "endTimestampMs" : "1432074300098"
+      },
+      "centerLatE7" : 400105292,
+      "centerLngE7" : -755851833,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0042692306
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0034139836
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0018414287
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.001537288
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0014485182
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.415966E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.3049504E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98652
+      },
+      "endLocation" : {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "address" : "273 Main St\nExton, PA 19341\nUSA",
+        "name" : "Great Clips",
+        "locationConfidence" : 23.148493
+      },
+      "duration" : {
+        "startTimestampMs" : "1432074309854",
+        "endTimestampMs" : "1432074892868"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400105247,
+          "lngE7" : -755848388
+        }, {
+          "latE7" : 400235481,
+          "lngE7" : -756288909
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "address" : "273 Main St\nExton, PA 19341\nUSA",
+        "name" : "Great Clips",
+        "locationConfidence" : 23.148493
+      },
+      "duration" : {
+        "startTimestampMs" : "1432074892868",
+        "endTimestampMs" : "1432076215577"
+      },
+      "centerLatE7" : 400237100,
+      "centerLngE7" : -756287380,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400230342,
+        "longitudeE7" : -756293992,
+        "placeId" : "ChIJH7SrY4b0xokRF7qvyq_BURs",
+        "name" : "Main Street at Exton",
+        "locationConfidence" : 15.878299
+      }, {
+        "latitudeE7" : 400236407,
+        "longitudeE7" : -756281903,
+        "placeId" : "ChIJ6ezHnob0xokRzNZHWzGlTPA",
+        "name" : "Fine Wine & Good Spirits",
+        "locationConfidence" : 6.47397
+      }, {
+        "latitudeE7" : 400239664,
+        "longitudeE7" : -756276105,
+        "placeId" : "ChIJF_egiYP0xokRRMr3Qoldn8o",
+        "name" : "Old Navy",
+        "locationConfidence" : 4.6741138
+      }, {
+        "latitudeE7" : 400228641,
+        "longitudeE7" : -756293834,
+        "placeId" : "ChIJUSWyi4b0xokRIQd9WW0fs8Y",
+        "name" : "Nala Indian & Thai Cuisine",
+        "locationConfidence" : 4.0741334
+      }, {
+        "latitudeE7" : 400239090,
+        "longitudeE7" : -756283237,
+        "placeId" : "ChIJ1b9eJ4T0xokRcz0_XzXzTWU",
+        "name" : "Exton Happy Nails Spa",
+        "locationConfidence" : 3.9109643
+      }, {
+        "latitudeE7" : 400221050,
+        "longitudeE7" : -756280800,
+        "placeId" : "ChIJc4eiw4b0xokRUCmPI40Aikc",
+        "name" : "Buca di Beppo - Exton",
+        "locationConfidence" : 3.6580415
+      }, {
+        "latitudeE7" : 400227928,
+        "longitudeE7" : -756282653,
+        "placeId" : "ChIJqTzAmYb0xokRp4FO8Ve9afY",
+        "name" : "Appetites on Main",
+        "locationConfidence" : 3.3332367
+      }, {
+        "latitudeE7" : 400235068,
+        "longitudeE7" : -756287147,
+        "placeId" : "ChIJE2KCj4b0xokRFve0qCYTk10",
+        "name" : "Maggie Moo's Ice Cream and Treatery",
+        "locationConfidence" : 3.2523625
+      }, {
+        "latitudeE7" : 400231511,
+        "longitudeE7" : -756277827,
+        "placeId" : "ChIJn7WQi4P0xokRrwAbTK1btjI",
+        "name" : "Eastern Mountain Sports",
+        "locationConfidence" : 3.2200603
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400220095,
+        "longitudeE7" : -756269707,
+        "placeId" : "ChIJUarZxYb0xokRDVTl_NF3Gyw",
+        "address" : "108 Bartlett Ave\nExton, PA 19341\nUSA",
+        "name" : "Bed Bath & Beyond",
+        "locationConfidence" : 20.148638
+      },
+      "duration" : {
+        "startTimestampMs" : "1432077177386",
+        "endTimestampMs" : "1432077892024"
+      },
+      "centerLatE7" : 400224750,
+      "centerLngE7" : -756262250,
+      "visitConfidence" : 67,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400224747,
+        "longitudeE7" : -756274834,
+        "placeId" : "ChIJtdGdxob0xokRVqCZ1cZQv8c",
+        "name" : "Barnes & Noble",
+        "locationConfidence" : 14.088537
+      }, {
+        "latitudeE7" : 400223800,
+        "longitudeE7" : -756255800,
+        "placeId" : "ChIJ0Q6oQIH0xokRxp611OxEl-Y",
+        "name" : "LongHorn Steakhouse",
+        "locationConfidence" : 12.428827
+      }, {
+        "latitudeE7" : 400222103,
+        "longitudeE7" : -756254273,
+        "placeId" : "ChIJ-UeLP4H0xokRW_c5Sfessk4",
+        "name" : "On The Border Mexican Grill & Cantina",
+        "locationConfidence" : 12.135807
+      }, {
+        "latitudeE7" : 400221050,
+        "longitudeE7" : -756280800,
+        "placeId" : "ChIJc4eiw4b0xokRUCmPI40Aikc",
+        "name" : "Buca di Beppo - Exton",
+        "locationConfidence" : 5.2308774
+      }, {
+        "latitudeE7" : 400212792,
+        "longitudeE7" : -756266199,
+        "placeId" : "ChIJ6yjMSIH0xokR9yxp7XlznVE",
+        "name" : "Babies\"R\"Us",
+        "locationConfidence" : 4.6786685
+      }, {
+        "latitudeE7" : 400230342,
+        "longitudeE7" : -756293992,
+        "placeId" : "ChIJH7SrY4b0xokRF7qvyq_BURs",
+        "name" : "Main Street at Exton",
+        "locationConfidence" : 4.282802
+      }, {
+        "latitudeE7" : 400228591,
+        "longitudeE7" : -756276963,
+        "placeId" : "ChIJPyJii4P0xokRP4x82KgT6kA",
+        "name" : "Cosi",
+        "locationConfidence" : 2.6362703
+      }, {
+        "latitudeE7" : 400231511,
+        "longitudeE7" : -756277827,
+        "placeId" : "ChIJn7WQi4P0xokRrwAbTK1btjI",
+        "name" : "Eastern Mountain Sports",
+        "locationConfidence" : 2.4599857
+      }, {
+        "latitudeE7" : 400237504,
+        "longitudeE7" : -756282646,
+        "placeId" : "ChIJs1JNiIP0xokR7XzOjh4VxWw",
+        "name" : "Great Clips Main Street At Exton",
+        "locationConfidence" : 2.3912961
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432077908221",
+        "endTimestampMs" : "1432079384199"
+      },
+      "distance" : 950,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432079714319",
+        "endTimestampMs" : "1432080245760"
+      },
+      "distance" : 4019,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400314369,
+          "lngE7" : -756212310
+        }, {
+          "latE7" : 400107040,
+          "lngE7" : -755848617
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98675
+      },
+      "duration" : {
+        "startTimestampMs" : "1432080340375",
+        "endTimestampMs" : "1432119329921"
+      },
+      "centerLatE7" : 400105115,
+      "centerLngE7" : -755851736,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0041839485
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.003390779
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0017745687
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0015236471
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0014045899
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.3686387E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.3860124E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432119329921",
+        "endTimestampMs" : "1432119972864"
+      },
+      "distance" : 3621,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400101127,
+          "lngE7" : -755849914
+        }, {
+          "latE7" : 399822959,
+          "lngE7" : -755655517
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.60073
+      },
+      "duration" : {
+        "startTimestampMs" : "1432125547013",
+        "endTimestampMs" : "1432146100974"
+      },
+      "centerLatE7" : 399799833,
+      "centerLngE7" : -755653833,
+      "visitConfidence" : 34,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 1.2131302
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.16812873
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.011204528
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0034094637
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0016097004
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.0015387994
+      }, {
+        "latitudeE7" : 399820746,
+        "longitudeE7" : -755681368,
+        "placeId" : "ChIJaUkk9DHyxokRRW62FNZNwCk",
+        "name" : "Penn Liberty Bank",
+        "locationConfidence" : 2.447722E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432146195852",
+        "endTimestampMs" : "1432146890144"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399803199,
+          "lngE7" : -755647583
+        }, {
+          "latE7" : 400103988,
+          "lngE7" : -755849533
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98402
+      },
+      "duration" : {
+        "startTimestampMs" : "1432146890144",
+        "endTimestampMs" : "1432205763143"
+      },
+      "centerLatE7" : 400105144,
+      "centerLngE7" : -755851730,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0041794237
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0041361987
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0033951537
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0017773851
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0015188861
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.367001E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.3747606E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98402
+      },
+      "endLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.90735
+      },
+      "duration" : {
+        "startTimestampMs" : "1432205763143",
+        "endTimestampMs" : "1432206310124"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400100708,
+          "lngE7" : -755843887
+        }, {
+          "latE7" : 399800872,
+          "lngE7" : -755647201
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.90735
+      },
+      "duration" : {
+        "startTimestampMs" : "1432206310124",
+        "endTimestampMs" : "1432233281416"
+      },
+      "centerLatE7" : 399799900,
+      "centerLngE7" : -755653157,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 0.8963101
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.17003967
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.011829433
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.0049108635
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0046370453
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.00433535
+      }, {
+        "latitudeE7" : 399814002,
+        "longitudeE7" : -755694444,
+        "placeId" : "ChIJb6jRni3yxokREKl4EwBriak",
+        "name" : "Bible Baptist Church",
+        "locationConfidence" : 3.2701553E-4
+      }, {
+        "latitudeE7" : 399820746,
+        "longitudeE7" : -755681368,
+        "placeId" : "ChIJaUkk9DHyxokRRW62FNZNwCk",
+        "name" : "Penn Liberty Bank",
+        "locationConfidence" : 2.5875753E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 97.0737
+      },
+      "duration" : {
+        "startTimestampMs" : "1432237648057",
+        "endTimestampMs" : "1432239644069"
+      },
+      "centerLatE7" : 399787220,
+      "centerLngE7" : -755665260,
+      "visitConfidence" : 70,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 2.64755
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.27210453
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0040443665
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0026027677
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.365746
+      },
+      "duration" : {
+        "startTimestampMs" : "1432240571499",
+        "endTimestampMs" : "1432244290151"
+      },
+      "centerLatE7" : 399797511,
+      "centerLngE7" : -755649489,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 1.4796319
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.1428545
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.004289502
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0042355526
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.003244096
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.365746
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98166
+      },
+      "duration" : {
+        "startTimestampMs" : "1432244290151",
+        "endTimestampMs" : "1432245096116"
+      },
+      "distance" : 3817,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399798774,
+          "lngE7" : -755645599
+        }, {
+          "latE7" : 400103721,
+          "lngE7" : -755849761
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98166
+      },
+      "duration" : {
+        "startTimestampMs" : "1432245099884",
+        "endTimestampMs" : "1432291442683"
+      },
+      "centerLatE7" : 400105310,
+      "centerLngE7" : -755851980,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0061192987
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0047634807
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0026289946
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0021910397
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0020429348
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 5.9219165E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432291648069",
+        "endTimestampMs" : "1432291855587"
+      },
+      "distance" : 73,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432292154078",
+        "endTimestampMs" : "1432292693227"
+      },
+      "distance" : 3613,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432292693227",
+        "endTimestampMs" : "1432292722427"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399803276,
+          "lngE7" : -755647583
+        }, {
+          "latE7" : 399800643,
+          "lngE7" : -755647048
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.85113
+      },
+      "duration" : {
+        "startTimestampMs" : "1432292722427",
+        "endTimestampMs" : "1432319754802"
+      },
+      "centerLatE7" : 399802517,
+      "centerLngE7" : -755651650,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 0.93213564
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.18625431
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.014972204
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.00923901
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.0037644128
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0021785365
+      }, {
+        "latitudeE7" : 399820746,
+        "longitudeE7" : -755681368,
+        "placeId" : "ChIJaUkk9DHyxokRRW62FNZNwCk",
+        "name" : "Penn Liberty Bank",
+        "locationConfidence" : 3.2781585E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.85113
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.982285
+      },
+      "duration" : {
+        "startTimestampMs" : "1432319754802",
+        "endTimestampMs" : "1432320514867"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399808235,
+          "lngE7" : -755652847
+        }, {
+          "latE7" : 399789085,
+          "lngE7" : -755629653
+        }, {
+          "latE7" : 400100402,
+          "lngE7" : -755849151
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 399789200,
+          "lngE7" : -755629349,
+          "timestampMs" : "1432319799972",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.982285
+      },
+      "duration" : {
+        "startTimestampMs" : "1432320531388",
+        "endTimestampMs" : "1432333560888"
+      },
+      "centerLatE7" : 400105386,
+      "centerLngE7" : -755851630,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.004698907
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0045404285
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.003809801
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0019756653
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0016215642
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.9139676E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.7538363E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.982285
+      },
+      "endLocation" : {
+        "latitudeE7" : 399577120,
+        "longitudeE7" : -755511421,
+        "placeId" : "ChIJ2Sy6VY3xxokR8N1O3TKYABM",
+        "address" : "833 Falcon Ln\nWest Chester, PA 19382\nUSA",
+        "name" : "Barker Park",
+        "locationConfidence" : 96.42926
+      },
+      "duration" : {
+        "startTimestampMs" : "1432333598408",
+        "endTimestampMs" : "1432334769406"
+      },
+      "distance" : 7100,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104598,
+          "lngE7" : -755848922
+        }, {
+          "latE7" : 399587707,
+          "lngE7" : -755521392
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399577120,
+        "longitudeE7" : -755511421,
+        "placeId" : "ChIJ2Sy6VY3xxokR8N1O3TKYABM",
+        "address" : "833 Falcon Ln\nWest Chester, PA 19382\nUSA",
+        "name" : "Barker Park",
+        "locationConfidence" : 96.42926
+      },
+      "duration" : {
+        "startTimestampMs" : "1432334769406",
+        "endTimestampMs" : "1432336931404"
+      },
+      "centerLatE7" : 399585420,
+      "centerLngE7" : -755518460,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399593924,
+        "longitudeE7" : -755513157,
+        "placeId" : "ChIJF9F8UI3xxokR6iwelSpIqNY",
+        "name" : "Home Renewal Specialists",
+        "locationConfidence" : 1.6717848
+      }, {
+        "latitudeE7" : 399616870,
+        "longitudeE7" : -755480752,
+        "placeId" : "ChIJV1ovCPPxxokRqmFwPIlgDIM",
+        "name" : "Pennsylvania Playmakers",
+        "locationConfidence" : 0.5505774
+      }, {
+        "latitudeE7" : 399599377,
+        "longitudeE7" : -755537438,
+        "placeId" : "ChIJNRWec43xxokRGU3IHYIyfGc",
+        "name" : "Harkins & Associates Inc",
+        "locationConfidence" : 0.44059575
+      }, {
+        "latitudeE7" : 399571829,
+        "longitudeE7" : -755532819,
+        "placeId" : "ChIJ2wSM-pLxxokRgYt-RfUCdOk",
+        "name" : "Freeman Leo C MD",
+        "locationConfidence" : 0.30391097
+      }, {
+        "latitudeE7" : 399636471,
+        "longitudeE7" : -755490758,
+        "placeId" : "ChIJu9WuYPPxxokRl5K0kqrLSv4",
+        "name" : "Goshen Valley",
+        "locationConfidence" : 0.23566867
+      }, {
+        "latitudeE7" : 399568027,
+        "longitudeE7" : -755541018,
+        "placeId" : "ChIJ7YNeVJLxxokR6ttXAbMO2tc",
+        "name" : "Springfield Steel Inc",
+        "locationConfidence" : 0.114540696
+      }, {
+        "latitudeE7" : 399632250,
+        "longitudeE7" : -755504764,
+        "placeId" : "ChIJaWi5UfPxxokRE5xasjxaIcg",
+        "name" : "Fabulous Vegan Recipes",
+        "locationConfidence" : 0.09819849
+      }, {
+        "latitudeE7" : 399638416,
+        "longitudeE7" : -755485511,
+        "placeId" : "ChIJXQlghPTxxokReSlXm7rIuOw",
+        "name" : "Rent-A-Driver",
+        "locationConfidence" : 0.055844538
+      }, {
+        "latitudeE7" : 399629827,
+        "longitudeE7" : -755488707,
+        "placeId" : "ChIJczD2b_PxxokRxJr2mGdEGqY",
+        "name" : "T K O Technologies LLC",
+        "locationConfidence" : 0.03755865
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399577120,
+        "longitudeE7" : -755511421,
+        "placeId" : "ChIJ2Sy6VY3xxokR8N1O3TKYABM",
+        "address" : "833 Falcon Ln\nWest Chester, PA 19382\nUSA",
+        "name" : "Barker Park",
+        "locationConfidence" : 96.42926
+      },
+      "endLocation" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.067317
+      },
+      "duration" : {
+        "startTimestampMs" : "1432336966407",
+        "endTimestampMs" : "1432337661306"
+      },
+      "distance" : 928,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399588203,
+          "lngE7" : -755520782
+        }, {
+          "latE7" : 399657897,
+          "lngE7" : -755555496
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.067317
+      },
+      "duration" : {
+        "startTimestampMs" : "1432337661306",
+        "endTimestampMs" : "1432341693464"
+      },
+      "centerLatE7" : 399660256,
+      "centerLngE7" : -755555700,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399674603,
+        "longitudeE7" : -755562226,
+        "placeId" : "ChIJ_47sheHtxokRmzV0b9F0A44",
+        "name" : "One To One Media Group",
+        "locationConfidence" : 4.902578
+      }, {
+        "latitudeE7" : 399667931,
+        "longitudeE7" : -755550196,
+        "placeId" : "ChIJh47sheHtxokRbuoTgFKNZwE",
+        "name" : "Sama Center",
+        "locationConfidence" : 4.2528653
+      }, {
+        "latitudeE7" : 399650250,
+        "longitudeE7" : -755561550,
+        "placeId" : "ChIJo47q-ovxxokRLd4A0L8eclY",
+        "name" : "Anthony B. Castura Inc.",
+        "locationConfidence" : 2.4944139
+      }, {
+        "latitudeE7" : 399679266,
+        "longitudeE7" : -755541408,
+        "placeId" : "ChIJv0i0XorxxokRkZqPFCNB4LM",
+        "name" : "Wiggins Auto Tags",
+        "locationConfidence" : 2.451202
+      }, {
+        "latitudeE7" : 399674474,
+        "longitudeE7" : -755544516,
+        "placeId" : "ChIJ3xtuUIrxxokRiCpsqvjk52E",
+        "name" : "Virtual Learning Center",
+        "locationConfidence" : 2.260216
+      }, {
+        "latitudeE7" : 399674474,
+        "longitudeE7" : -755544516,
+        "placeId" : "ChIJ3xtuUIrxxokRRcdEnowsHDw",
+        "name" : "Saul Marjorie MD",
+        "locationConfidence" : 1.939364
+      }, {
+        "latitudeE7" : 399674671,
+        "longitudeE7" : -755554776,
+        "placeId" : "ChIJ46guNIjxxokRIPmIaGXWqWE",
+        "name" : "Long & Foster Realtors",
+        "locationConfidence" : 1.7383391
+      }, {
+        "latitudeE7" : 399687461,
+        "longitudeE7" : -755557930,
+        "placeId" : "ChIJ2enuheHtxokR70DA8lOi7nQ",
+        "name" : "China Palace",
+        "locationConfidence" : 1.6919159
+      }, {
+        "latitudeE7" : 399686457,
+        "longitudeE7" : -755555157,
+        "placeId" : "ChIJ60pJlYnxxokRcrJjp_N4BRc",
+        "name" : "Tommy's Original Pizza",
+        "locationConfidence" : 1.6671773
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.067317
+      },
+      "endLocation" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.503728
+      },
+      "duration" : {
+        "startTimestampMs" : "1432341742058",
+        "endTimestampMs" : "1432343592824"
+      },
+      "distance" : 1559,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399657936,
+          "lngE7" : -755555953
+        }, {
+          "latE7" : 399631958,
+          "lngE7" : -755607604
+        }, {
+          "latE7" : 399657859,
+          "lngE7" : -755555267
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 399632187,
+          "lngE7" : -755608902,
+          "timestampMs" : "1432342312615",
+          "accuracyMeters" : 18
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.503728
+      },
+      "duration" : {
+        "startTimestampMs" : "1432343615401",
+        "endTimestampMs" : "1432348422736"
+      },
+      "centerLatE7" : 399660014,
+      "centerLngE7" : -755554343,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399674603,
+        "longitudeE7" : -755562226,
+        "placeId" : "ChIJ_47sheHtxokRmzV0b9F0A44",
+        "name" : "One To One Media Group",
+        "locationConfidence" : 4.680069
+      }, {
+        "latitudeE7" : 399650250,
+        "longitudeE7" : -755561550,
+        "placeId" : "ChIJo47q-ovxxokRLd4A0L8eclY",
+        "name" : "Anthony B. Castura Inc.",
+        "locationConfidence" : 2.5950723
+      }, {
+        "latitudeE7" : 399674474,
+        "longitudeE7" : -755544516,
+        "placeId" : "ChIJ3xtuUIrxxokRiCpsqvjk52E",
+        "name" : "Virtual Learning Center",
+        "locationConfidence" : 2.5244665
+      }, {
+        "latitudeE7" : 399674474,
+        "longitudeE7" : -755544516,
+        "placeId" : "ChIJ3xtuUIrxxokRRcdEnowsHDw",
+        "name" : "Saul Marjorie MD",
+        "locationConfidence" : 2.1660738
+      }, {
+        "latitudeE7" : 399674603,
+        "longitudeE7" : -755562226,
+        "placeId" : "ChIJh47sheHtxokRyOg9_sS-hNQ",
+        "name" : "C M Mortgage Services Inc",
+        "locationConfidence" : 1.8677694
+      }, {
+        "latitudeE7" : 399687461,
+        "longitudeE7" : -755557930,
+        "placeId" : "ChIJ2enuheHtxokR70DA8lOi7nQ",
+        "name" : "China Palace",
+        "locationConfidence" : 1.8078066
+      }, {
+        "latitudeE7" : 399674671,
+        "longitudeE7" : -755554776,
+        "placeId" : "ChIJ46guNIjxxokRIPmIaGXWqWE",
+        "name" : "Long & Foster Realtors",
+        "locationConfidence" : 1.7919927
+      }, {
+        "latitudeE7" : 399670805,
+        "longitudeE7" : -755536561,
+        "placeId" : "ChIJFRWw-YrxxokRyd0GTIx7ZnI",
+        "name" : "Mid-Atlantic Limousine Inc",
+        "locationConfidence" : 1.7871214
+      }, {
+        "latitudeE7" : 399674474,
+        "longitudeE7" : -755544516,
+        "placeId" : "ChIJ3xtuUIrxxokRqjfQ5eWGgy8",
+        "name" : "Advocare Broomall Pediatric: Anderson Halette MD",
+        "locationConfidence" : 1.7638162
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399673495,
+        "longitudeE7" : -755553520,
+        "placeId" : "ChIJ3xtuUIrxxokRxl-NEo9q2lM",
+        "address" : "1246 West Chester Pike STE 303\nWest Chester, PA 19382\nUSA",
+        "name" : "Advocare Broomall Pediatrics- Chester County Office",
+        "locationConfidence" : 10.503728
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98683
+      },
+      "duration" : {
+        "startTimestampMs" : "1432348462572",
+        "endTimestampMs" : "1432348954729"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399658126,
+          "lngE7" : -755558090
+        }, {
+          "latE7" : 400104064,
+          "lngE7" : -755849456
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98683
+      },
+      "duration" : {
+        "startTimestampMs" : "1432348954729",
+        "endTimestampMs" : "1432405756495"
+      },
+      "centerLatE7" : 400105042,
+      "centerLngE7" : -755851755,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.004152899
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0033459687
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0017831778
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0015481504
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.001374406
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.312162E-4
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.338659E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432405756495",
+        "endTimestampMs" : "1432405988283"
+      },
+      "distance" : 154,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432405988283",
+        "endTimestampMs" : "1432406423338"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104446,
+          "lngE7" : -755849075
+        }, {
+          "latE7" : 400371894,
+          "lngE7" : -756204223
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400355470,
+        "longitudeE7" : -756215919,
+        "placeId" : "ChIJPXe7Mp70xokRY9YOXrFEqd4",
+        "address" : "Swedesford Rd, Exton, PA 19341, United States",
+        "name" : "Aqua Pennsylvania Inc",
+        "locationConfidence" : 47.412155
+      },
+      "duration" : {
+        "startTimestampMs" : "1432406423338",
+        "endTimestampMs" : "1432422045302"
+      },
+      "centerLatE7" : 400365961,
+      "centerLngE7" : -756208159,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 37.59841
+      }, {
+        "latitudeE7" : 400388409,
+        "longitudeE7" : -756218687,
+        "placeId" : "ChIJxaaPBmDzxokRhUMbEjt707Q",
+        "name" : "Dr. Frank P. Tutterice, DO",
+        "locationConfidence" : 2.1234546
+      }, {
+        "latitudeE7" : 400345902,
+        "longitudeE7" : -756232608,
+        "placeId" : "ChIJA_uAiZ70xokRW3YDCRHqpDE",
+        "name" : "Carnegie Wealth Management",
+        "locationConfidence" : 1.8995643
+      }, {
+        "latitudeE7" : 400344593,
+        "longitudeE7" : -756230280,
+        "placeId" : "ChIJ2Y4iip70xokRB7dXZ8aYQGE",
+        "name" : "Benefit Consulting Group LLC",
+        "locationConfidence" : 1.6065557
+      }, {
+        "latitudeE7" : 400341951,
+        "longitudeE7" : -756230972,
+        "placeId" : "ChIJh3Erip70xokR2EzqAFBDB2E",
+        "name" : "Oriental Medicine",
+        "locationConfidence" : 1.5256417
+      }, {
+        "latitudeE7" : 400345952,
+        "longitudeE7" : -756235602,
+        "placeId" : "ChIJv949iZ70xokRo8HONzU7LvM",
+        "name" : "The Law Offices of Michelle A. Fioravanti, P.C.",
+        "locationConfidence" : 1.3293118
+      }, {
+        "latitudeE7" : 400343156,
+        "longitudeE7" : -756229784,
+        "placeId" : "ChIJ4X4Qip70xokRrLMUa5k40no",
+        "name" : "Mesko Engineering Associates Inc",
+        "locationConfidence" : 1.2706332
+      }, {
+        "latitudeE7" : 400345661,
+        "longitudeE7" : -756231686,
+        "placeId" : "ChIJReUlip70xokRxpW3xyzbiKc",
+        "name" : "Main Line Rehab Associates Inc",
+        "locationConfidence" : 1.0113369
+      }, {
+        "latitudeE7" : 400345795,
+        "longitudeE7" : -756234295,
+        "placeId" : "ChIJic0ViZ70xokRZNWE8urASsE",
+        "name" : "Law Office of J. David Outtrim, P.C.",
+        "locationConfidence" : 0.86628956
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432422071861",
+        "endTimestampMs" : "1432422877412"
+      },
+      "distance" : 4551,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400368995,
+          "lngE7" : -756209640
+        }, {
+          "latE7" : 400103378,
+          "lngE7" : -755850067
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.97805
+      },
+      "duration" : {
+        "startTimestampMs" : "1432422977692",
+        "endTimestampMs" : "1432637531709"
+      },
+      "centerLatE7" : 400105014,
+      "centerLngE7" : -755850595,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0064294506
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0062267925
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0026635604
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0023746232
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.00229922
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.0011074858
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 8.495537E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432637951786",
+        "endTimestampMs" : "1432638563949"
+      },
+      "distance" : 1634,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432638563949",
+        "endTimestampMs" : "1432638961810"
+      },
+      "distance" : 276,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432638961810",
+        "endTimestampMs" : "1432640150083"
+      },
+      "distance" : 531,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432640150083",
+        "endTimestampMs" : "1432640931095"
+      },
+      "distance" : 529,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432640931095",
+        "endTimestampMs" : "1432642549614"
+      },
+      "distance" : 604,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.25419
+      },
+      "duration" : {
+        "startTimestampMs" : "1432642549614",
+        "endTimestampMs" : "1432654073563"
+      },
+      "centerLatE7" : 399792667,
+      "centerLngE7" : -755653700,
+      "visitConfidence" : 56,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 1.5843967
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.1587159
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0013864319
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0013128142
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.84266
+      },
+      "duration" : {
+        "startTimestampMs" : "1432655908702",
+        "endTimestampMs" : "1432671338525"
+      },
+      "centerLatE7" : 399790200,
+      "centerLngE7" : -755667967,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 0.8826966
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.24078216
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.018399598
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.006072163
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.00557676
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0022799175
+      }, {
+        "latitudeE7" : 399820746,
+        "longitudeE7" : -755681368,
+        "placeId" : "ChIJaUkk9DHyxokRRW62FNZNwCk",
+        "name" : "Penn Liberty Bank",
+        "locationConfidence" : 0.0010355038
+      }, {
+        "latitudeE7" : 399814002,
+        "longitudeE7" : -755694444,
+        "placeId" : "ChIJb6jRni3yxokREKl4EwBriak",
+        "name" : "Bible Baptist Church",
+        "locationConfidence" : 4.995974E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 97.70034
+      },
+      "duration" : {
+        "startTimestampMs" : "1432672120188",
+        "endTimestampMs" : "1432677637709"
+      },
+      "centerLatE7" : 399791200,
+      "centerLngE7" : -755656950,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 2.1194842
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.17685398
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.001775756
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0015465333
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432677637709",
+        "endTimestampMs" : "1432677812782"
+      },
+      "distance" : 233,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432677812782",
+        "endTimestampMs" : "1432679045834"
+      },
+      "distance" : 9200,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399788208,
+          "lngE7" : -755664596
+        }, {
+          "latE7" : 399586372,
+          "lngE7" : -755522842
+        }, {
+          "latE7" : 400107116,
+          "lngE7" : -755848617
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 399585686,
+          "lngE7" : -755521393,
+          "timestampMs" : "1432678213595",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.984245
+      },
+      "duration" : {
+        "startTimestampMs" : "1432679143636",
+        "endTimestampMs" : "1432723699853"
+      },
+      "centerLatE7" : 400105401,
+      "centerLngE7" : -755851390,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.004775589
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.004228315
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.002120073
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0017348785
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0017308809
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 6.409285E-4
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 5.241449E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432723816259",
+        "endTimestampMs" : "1432724013698"
+      },
+      "distance" : 115,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432724295331",
+        "endTimestampMs" : "1432724780522"
+      },
+      "distance" : 3551,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400089454,
+          "lngE7" : -755854644
+        }, {
+          "latE7" : 399808998,
+          "lngE7" : -755648880
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 97.965904
+      },
+      "duration" : {
+        "startTimestampMs" : "1432733833130",
+        "endTimestampMs" : "1432760757594"
+      },
+      "centerLatE7" : 399790565,
+      "centerLngE7" : -755662485,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 1.7944565
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.21441324
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.018488158
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.0023811813
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0021499111
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.001699821
+      }, {
+        "latitudeE7" : 399814002,
+        "longitudeE7" : -755694444,
+        "placeId" : "ChIJb6jRni3yxokREKl4EwBriak",
+        "name" : "Bible Baptist Church",
+        "locationConfidence" : 5.0558476E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 97.965904
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.96579
+      },
+      "duration" : {
+        "startTimestampMs" : "1432760788067",
+        "endTimestampMs" : "1432762660312"
+      },
+      "distance" : 4367,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399789657,
+          "lngE7" : -755654830
+        }, {
+          "latE7" : 400008201,
+          "lngE7" : -755831146
+        }, {
+          "latE7" : 400104866,
+          "lngE7" : -755848693
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400008240,
+          "lngE7" : -755831070,
+          "timestampMs" : "1432761468738",
+          "accuracyMeters" : 22
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.96579
+      },
+      "duration" : {
+        "startTimestampMs" : "1432762660312",
+        "endTimestampMs" : "1432773246637"
+      },
+      "centerLatE7" : 400103158,
+      "centerLngE7" : -755857121,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.011990084
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0075068967
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.005527532
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.004719939
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.003546545
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 9.219535E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432773251614",
+        "endTimestampMs" : "1432773341757"
+      },
+      "distance" : 89,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432773455949",
+        "endTimestampMs" : "1432774147674"
+      },
+      "distance" : 520,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400101661,
+          "lngE7" : -755888595
+        }, {
+          "latE7" : 400104675,
+          "lngE7" : -755848846
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98573
+      },
+      "duration" : {
+        "startTimestampMs" : "1432774147674",
+        "endTimestampMs" : "1432809519549"
+      },
+      "centerLatE7" : 400105127,
+      "centerLngE7" : -755851471,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.004383694
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.003768068
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0019027923
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0016249608
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0015206322
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 5.813485E-4
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.845986E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400104866,
+        "longitudeE7" : -755851919
+      },
+      "endLocation" : {
+        "latitudeE7" : 399801193,
+        "longitudeE7" : -755647973
+      },
+      "duration" : {
+        "startTimestampMs" : "1432809961674",
+        "endTimestampMs" : "1432811155784"
+      },
+      "distance" : 3738,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103721,
+          "lngE7" : -755849761
+        }, {
+          "latE7" : 399800872,
+          "lngE7" : -755647201
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.75443
+      },
+      "duration" : {
+        "startTimestampMs" : "1432811159483",
+        "endTimestampMs" : "1432844712093"
+      },
+      "centerLatE7" : 399792935,
+      "centerLngE7" : -755665394,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 1.1226052
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.11196123
+      }, {
+        "latitudeE7" : 399805226,
+        "longitudeE7" : -755706905,
+        "placeId" : "ChIJb6jRni3yxokR5Gqw186I5HA",
+        "name" : "West Chester Christian School",
+        "locationConfidence" : 0.007640162
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0014660712
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 9.700828E-4
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 9.257048E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 98.75443
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98998
+      },
+      "duration" : {
+        "startTimestampMs" : "1432844724846",
+        "endTimestampMs" : "1432845452035"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399790382,
+          "lngE7" : -755673751
+        }, {
+          "latE7" : 400104560,
+          "lngE7" : -755848999
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98998
+      },
+      "duration" : {
+        "startTimestampMs" : "1432845452035",
+        "endTimestampMs" : "1432896985478"
+      },
+      "centerLatE7" : 400104079,
+      "centerLngE7" : -755852124,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0024902925
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0023284133
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0015159269
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0013499445
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 9.824428E-4
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 8.8076206E-4
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 4.69528E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.98998
+      },
+      "endLocation" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 96.86322
+      },
+      "duration" : {
+        "startTimestampMs" : "1432896985478",
+        "endTimestampMs" : "1432897527228"
+      },
+      "distance" : 3676,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400098152,
+          "lngE7" : -755848541
+        }, {
+          "latE7" : 399804649,
+          "lngE7" : -755648651
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399796847,
+        "longitudeE7" : -755654483,
+        "placeId" : "ChIJs-Gr0i_yxokRMl8l8E_2Ads",
+        "address" : "Ellis Ln, West Chester, Pennsylvania 19382, United States",
+        "locationConfidence" : 96.86322
+      },
+      "duration" : {
+        "startTimestampMs" : "1432897531468",
+        "endTimestampMs" : "1432911508281"
+      },
+      "centerLatE7" : 399796650,
+      "centerLngE7" : -755650550,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399791750,
+        "longitudeE7" : -755650160,
+        "placeId" : "ChIJ0TxojC_yxokRtoTqUsaLCsc",
+        "name" : "West Chester East High School",
+        "locationConfidence" : 2.8719652
+      }, {
+        "latitudeE7" : 399798666,
+        "longitudeE7" : -755659346,
+        "placeId" : "ChIJqxNZJTDyxokR3PgfIL_9oJI",
+        "name" : "Fugett Middle School",
+        "locationConfidence" : 0.2537217
+      }, {
+        "latitudeE7" : 399838129,
+        "longitudeE7" : -755689507,
+        "placeId" : "ChIJe4asQETxxokRt8dw2E60iWI",
+        "name" : "West Chester Area YMCA",
+        "locationConfidence" : 0.0048683486
+      }, {
+        "latitudeE7" : 399816987,
+        "longitudeE7" : -755634285,
+        "placeId" : "ChIJXbjlEjDyxokRQS-Jwv4uObo",
+        "locationConfidence" : 0.0037588945
+      }, {
+        "latitudeE7" : 399795577,
+        "longitudeE7" : -755653489,
+        "placeId" : "ChIJ0TxojC_yxokRU_U5LIZt4sA",
+        "name" : "Mark L. Grothmann, ATC",
+        "locationConfidence" : 0.0024655191
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432926666613",
+        "endTimestampMs" : "1432927490909"
+      },
+      "distance" : 3674,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399808464,
+          "lngE7" : -755681152
+        }, {
+          "latE7" : 400107345,
+          "lngE7" : -755848846
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432928309877",
+        "endTimestampMs" : "1432928426743"
+      },
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400093536,
+          "lngE7" : -755865783
+        }, {
+          "latE7" : 400094718,
+          "lngE7" : -755901412
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400089853,
+        "longitudeE7" : -755903164,
+        "placeId" : "ChIJ5z8evabzxokR-TY4iaPPIbA",
+        "address" : "1307 Phoenixville Pike\nWest Chester, PA 19380\nUSA",
+        "name" : "Rite Aid",
+        "locationConfidence" : 28.814516
+      },
+      "duration" : {
+        "startTimestampMs" : "1432928426743",
+        "endTimestampMs" : "1432929421689"
+      },
+      "centerLatE7" : 400090560,
+      "centerLngE7" : -755893080,
+      "visitConfidence" : 39,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400082980,
+        "longitudeE7" : -755898716,
+        "placeId" : "ChIJT6u6JKTzxokRbJpE1iInEmQ",
+        "name" : "Mclauglins Auto Services",
+        "locationConfidence" : 14.587792
+      }, {
+        "latitudeE7" : 400080950,
+        "longitudeE7" : -755888230,
+        "placeId" : "ChIJW_0lM6TzxokRVsi_2DSFkyg",
+        "name" : "Boot Rd & Delmar Dr",
+        "locationConfidence" : 9.319294
+      }, {
+        "latitudeE7" : 400081940,
+        "longitudeE7" : -755884690,
+        "placeId" : "ChIJGYEh0qXzxokRX91KtKfOozk",
+        "name" : "Boot Rd & Longford Blvd",
+        "locationConfidence" : 9.31508
+      }, {
+        "latitudeE7" : 400087620,
+        "longitudeE7" : -755908460,
+        "placeId" : "ChIJO0h6BKTzxokRzYFqxHfHd7w",
+        "name" : "Phoenixville Pk & Boot Rd",
+        "locationConfidence" : 7.98172
+      }, {
+        "latitudeE7" : 400089904,
+        "longitudeE7" : -755903303,
+        "placeId" : "ChIJU1rcH6TzxokRbhDOh9IREMA",
+        "name" : "Rite Aid Photo",
+        "locationConfidence" : 7.764856
+      }, {
+        "latitudeE7" : 400083960,
+        "longitudeE7" : -755912940,
+        "placeId" : "ChIJ8b8lD6TzxokRDJMuANB0IG4",
+        "name" : "Phoenixville Pk & Boot Rd - FS",
+        "locationConfidence" : 4.9474277
+      }, {
+        "latitudeE7" : 400090109,
+        "longitudeE7" : -755903578,
+        "placeId" : "ChIJ5z8evabzxokRtQLhPB4SyHw",
+        "name" : "United Investment Properties",
+        "locationConfidence" : 4.945648
+      }, {
+        "latitudeE7" : 400089330,
+        "longitudeE7" : -755904100,
+        "placeId" : "ChIJP5KxH6TzxokRQzml3mArdYU",
+        "name" : "Western Union",
+        "locationConfidence" : 3.3332362
+      }, {
+        "latitudeE7" : 400090414,
+        "longitudeE7" : -755918877,
+        "placeId" : "ChIJFeOvJKTzxokRLkkuqAieLjI",
+        "name" : "Mc Laughlin's Automotive Service Center",
+        "locationConfidence" : 2.2894177
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400089853,
+        "longitudeE7" : -755903164,
+        "placeId" : "ChIJ5z8evabzxokR-TY4iaPPIbA",
+        "address" : "1307 Phoenixville Pike\nWest Chester, PA 19380\nUSA",
+        "name" : "Rite Aid",
+        "locationConfidence" : 28.814516
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.921555
+      },
+      "duration" : {
+        "startTimestampMs" : "1432929421689",
+        "endTimestampMs" : "1432929721800"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400091133,
+          "lngE7" : -755907897
+        }, {
+          "latE7" : 400103340,
+          "lngE7" : -755850143
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.921555
+      },
+      "duration" : {
+        "startTimestampMs" : "1432929721800",
+        "endTimestampMs" : "1432936044438"
+      },
+      "centerLatE7" : 400102760,
+      "centerLngE7" : -755855290,
+      "visitConfidence" : 70,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.022314167
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.015695313
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.015412099
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.011454593
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.010983791
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.0025854253
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.921555
+      },
+      "endLocation" : {
+        "latitudeE7" : 400089853,
+        "longitudeE7" : -755903164,
+        "placeId" : "ChIJ5z8evabzxokR-TY4iaPPIbA",
+        "address" : "1307 Phoenixville Pike\nWest Chester, PA 19380\nUSA",
+        "name" : "Rite Aid",
+        "locationConfidence" : 27.934052
+      },
+      "duration" : {
+        "startTimestampMs" : "1432936044438",
+        "endTimestampMs" : "1432936267455"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400094337,
+          "lngE7" : -755863342
+        }, {
+          "latE7" : 400083961,
+          "lngE7" : -755898437
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400089853,
+        "longitudeE7" : -755903164,
+        "placeId" : "ChIJ5z8evabzxokR-TY4iaPPIbA",
+        "address" : "1307 Phoenixville Pike\nWest Chester, PA 19380\nUSA",
+        "name" : "Rite Aid",
+        "locationConfidence" : 27.934052
+      },
+      "duration" : {
+        "startTimestampMs" : "1432936267455",
+        "endTimestampMs" : "1432936896464"
+      },
+      "centerLatE7" : 400089580,
+      "centerLngE7" : -755893100,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400082980,
+        "longitudeE7" : -755898716,
+        "placeId" : "ChIJT6u6JKTzxokRbJpE1iInEmQ",
+        "name" : "Mclauglins Auto Services",
+        "locationConfidence" : 15.03935
+      }, {
+        "latitudeE7" : 400080950,
+        "longitudeE7" : -755888230,
+        "placeId" : "ChIJW_0lM6TzxokRVsi_2DSFkyg",
+        "name" : "Boot Rd & Delmar Dr",
+        "locationConfidence" : 9.725653
+      }, {
+        "latitudeE7" : 400081940,
+        "longitudeE7" : -755884690,
+        "placeId" : "ChIJGYEh0qXzxokRX91KtKfOozk",
+        "name" : "Boot Rd & Longford Blvd",
+        "locationConfidence" : 9.632122
+      }, {
+        "latitudeE7" : 400087620,
+        "longitudeE7" : -755908460,
+        "placeId" : "ChIJO0h6BKTzxokRzYFqxHfHd7w",
+        "name" : "Phoenixville Pk & Boot Rd",
+        "locationConfidence" : 7.9143586
+      }, {
+        "latitudeE7" : 400089904,
+        "longitudeE7" : -755903303,
+        "placeId" : "ChIJU1rcH6TzxokRbhDOh9IREMA",
+        "name" : "Rite Aid Photo",
+        "locationConfidence" : 7.538093
+      }, {
+        "latitudeE7" : 400083960,
+        "longitudeE7" : -755912940,
+        "placeId" : "ChIJ8b8lD6TzxokRDJMuANB0IG4",
+        "name" : "Phoenixville Pk & Boot Rd - FS",
+        "locationConfidence" : 5.0170016
+      }, {
+        "latitudeE7" : 400090109,
+        "longitudeE7" : -755903578,
+        "placeId" : "ChIJ5z8evabzxokRtQLhPB4SyHw",
+        "name" : "United Investment Properties",
+        "locationConfidence" : 4.807862
+      }, {
+        "latitudeE7" : 400089330,
+        "longitudeE7" : -755904100,
+        "placeId" : "ChIJP5KxH6TzxokRQzml3mArdYU",
+        "name" : "Western Union",
+        "locationConfidence" : 3.2583604
+      }, {
+        "latitudeE7" : 400090414,
+        "longitudeE7" : -755918877,
+        "placeId" : "ChIJFeOvJKTzxokRLkkuqAieLjI",
+        "name" : "Mc Laughlin's Automotive Service Center",
+        "locationConfidence" : 2.2234938
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400089853,
+        "longitudeE7" : -755903164,
+        "placeId" : "ChIJ5z8evabzxokR-TY4iaPPIbA",
+        "address" : "1307 Phoenixville Pike\nWest Chester, PA 19380\nUSA",
+        "name" : "Rite Aid",
+        "locationConfidence" : 27.934052
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.95445
+      },
+      "duration" : {
+        "startTimestampMs" : "1432936896464",
+        "endTimestampMs" : "1432937178450"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400091018,
+          "lngE7" : -755890121
+        }, {
+          "latE7" : 400101203,
+          "lngE7" : -755850067
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.95445
+      },
+      "duration" : {
+        "startTimestampMs" : "1432937178450",
+        "endTimestampMs" : "1432941908772"
+      },
+      "centerLatE7" : 400103350,
+      "centerLngE7" : -755849150,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.013225179
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.009278165
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0053518224
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.005090834
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0048816013
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0042534284
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.0034629866
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400104591,
+        "longitudeE7" : -755847512
+      },
+      "endLocation" : {
+        "latitudeE7" : 400091285,
+        "longitudeE7" : -755699104
+      },
+      "duration" : {
+        "startTimestampMs" : "1432941908772",
+        "endTimestampMs" : "1432942289675"
+      },
+      "distance" : 1418,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400105094,
+          "lngE7" : -755848464
+        }, {
+          "latE7" : 400092124,
+          "lngE7" : -755699615
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400115800,
+        "longitudeE7" : -755688480,
+        "placeId" : "ChIJCZu9Vv_yxokR2ArESl3N0r4",
+        "address" : "1252 Upton Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "E T Saba Associates Inc",
+        "locationConfidence" : 43.21409
+      },
+      "duration" : {
+        "startTimestampMs" : "1432942289675",
+        "endTimestampMs" : "1432943327398"
+      },
+      "centerLatE7" : 400093950,
+      "centerLngE7" : -755700550,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400081960,
+        "longitudeE7" : -755688550,
+        "placeId" : "ChIJOQ32JVTyxokRPGaeljBF9js",
+        "name" : "Explo Craft Inc",
+        "locationConfidence" : 42.32049
+      }, {
+        "latitudeE7" : 400074444,
+        "longitudeE7" : -755672998,
+        "placeId" : "ChIJ0af2lFbyxokRorDe89Rjvsw",
+        "name" : "Stephenson Charles MD",
+        "locationConfidence" : 8.612933
+      }, {
+        "latitudeE7" : 400081994,
+        "longitudeE7" : -755667498,
+        "placeId" : "ChIJF4wZ8lbyxokRZ-yLUd1xyrY",
+        "name" : "Tallman James",
+        "locationConfidence" : 5.8524876
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400115800,
+        "longitudeE7" : -755688480,
+        "placeId" : "ChIJCZu9Vv_yxokR2ArESl3N0r4",
+        "address" : "1252 Upton Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "E T Saba Associates Inc",
+        "locationConfidence" : 43.21409
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.95521
+      },
+      "duration" : {
+        "startTimestampMs" : "1432943327398",
+        "endTimestampMs" : "1432943769418"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400092544,
+          "lngE7" : -755698623
+        }, {
+          "latE7" : 400103645,
+          "lngE7" : -755849838
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.95521
+      },
+      "duration" : {
+        "startTimestampMs" : "1432943769418",
+        "endTimestampMs" : "1432944648432"
+      },
+      "centerLatE7" : 400104450,
+      "centerLngE7" : -755848325,
+      "visitConfidence" : 66,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.014299862
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.008460176
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.0047977082
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0047925483
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0046516233
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0044405432
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.0033463123
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1432944967405",
+        "endTimestampMs" : "1432945706605"
+      },
+      "distance" : 790,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400095024,
+          "lngE7" : -755862808
+        }, {
+          "latE7" : 400096015,
+          "lngE7" : -755942840
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400098721,
+        "longitudeE7" : -755943480,
+        "placeId" : "ChIJ4W-seaHzxokR7j2oUJKjXYM",
+        "address" : "905 Boot Rd #4020\nWest Chester, PA 19380\nUSA",
+        "name" : "Hong Kong Restaurant",
+        "locationConfidence" : 43.832336
+      },
+      "duration" : {
+        "startTimestampMs" : "1432945706605",
+        "endTimestampMs" : "1432947062399"
+      },
+      "centerLatE7" : 400098000,
+      "centerLngE7" : -755940533,
+      "visitConfidence" : 57,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400095918,
+        "longitudeE7" : -755948525,
+        "placeId" : "ChIJSQ2Rf6HzxokR5aTxtUnNLXU",
+        "name" : "Sabatino's Grill",
+        "locationConfidence" : 16.176382
+      }, {
+        "latitudeE7" : 400097320,
+        "longitudeE7" : -755941102,
+        "placeId" : "ChIJiby9faHzxokRUv9jrW6x8Jk",
+        "name" : "Dr. Jiten P. Gohel",
+        "locationConfidence" : 4.786341
+      }, {
+        "latitudeE7" : 400097922,
+        "longitudeE7" : -755941087,
+        "placeId" : "ChIJR3-9faHzxokRzfK8eNrervs",
+        "name" : "Exton Dental Arts",
+        "locationConfidence" : 4.7149687
+      }, {
+        "latitudeE7" : 400097404,
+        "longitudeE7" : -755941962,
+        "placeId" : "ChIJ4zfcfaHzxokRuuwudxjxtSA",
+        "name" : "Ultimate Shave II",
+        "locationConfidence" : 3.7915916
+      }, {
+        "latitudeE7" : 400097868,
+        "longitudeE7" : -755945051,
+        "placeId" : "ChIJwXaWf6HzxokRZAguAoB2Ing",
+        "name" : "Dry Clean",
+        "locationConfidence" : 3.6097145
+      }, {
+        "latitudeE7" : 400098140,
+        "longitudeE7" : -755943700,
+        "placeId" : "ChIJuT5KfqHzxokRfL2TKKHkAXo",
+        "name" : "Allstate Insurance: Terri Smith",
+        "locationConfidence" : 2.7618828
+      }, {
+        "latitudeE7" : 400095045,
+        "longitudeE7" : -755937758,
+        "placeId" : "ChIJy4T_aabpxokRrO_FMYAJC8Y",
+        "name" : "Financial Coach Group",
+        "locationConfidence" : 2.6650631
+      }, {
+        "latitudeE7" : 400096183,
+        "longitudeE7" : -755934108,
+        "placeId" : "ChIJxbhhYaHzxokRKBP7M8XoTms",
+        "name" : "Dr. N Wayne Zaayenga, DMD",
+        "locationConfidence" : 2.3112807
+      }, {
+        "latitudeE7" : 400097546,
+        "longitudeE7" : -755942904,
+        "placeId" : "ChIJ3xpsfqHzxokRpsfrkIA9NbE",
+        "name" : "Dr. Jeannine A. Weimar-Fitzpatrick, MD",
+        "locationConfidence" : 2.2030187
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400098721,
+        "longitudeE7" : -755943480,
+        "placeId" : "ChIJ4W-seaHzxokR7j2oUJKjXYM",
+        "address" : "905 Boot Rd #4020\nWest Chester, PA 19380\nUSA",
+        "name" : "Hong Kong Restaurant",
+        "locationConfidence" : 43.832336
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.984505
+      },
+      "duration" : {
+        "startTimestampMs" : "1432947062399",
+        "endTimestampMs" : "1432948165385"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400096969,
+          "lngE7" : -755949478
+        }, {
+          "latE7" : 400095367,
+          "lngE7" : -755894012
+        }, {
+          "latE7" : 400104560,
+          "lngE7" : -755848999
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400093536,
+          "lngE7" : -755893173,
+          "timestampMs" : "1432947882379",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.984505
+      },
+      "duration" : {
+        "startTimestampMs" : "1432948165385",
+        "endTimestampMs" : "1433016779222"
+      },
+      "centerLatE7" : 400104399,
+      "centerLngE7" : -755851949,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.003928536
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 0.0035122887
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0022794367
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0022113004
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0014466313
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.0013666583
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 7.5140886E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1433016844141",
+        "endTimestampMs" : "1433017602031"
+      },
+      "distance" : 2844,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104064,
+          "lngE7" : -755849456
+        }, {
+          "latE7" : 400193786,
+          "lngE7" : -755540390
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400210750,
+        "longitudeE7" : -755545450,
+        "placeId" : "ChIJzS7dzu3yxokRl5gVnhSPY90",
+        "address" : "918 Dolphin Dr, Malvern, PA 19355-3141, United States",
+        "name" : "King-Prussia Stables",
+        "locationConfidence" : 65.779594
+      },
+      "duration" : {
+        "startTimestampMs" : "1433017629874",
+        "endTimestampMs" : "1433026852841"
+      },
+      "centerLatE7" : 400186760,
+      "centerLngE7" : -755533364,
+      "visitConfidence" : 56,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 34.2204
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1433026966594",
+        "endTimestampMs" : "1433027460900"
+      },
+      "distance" : 211,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400195159,
+          "lngE7" : -755537185
+        }, {
+          "latE7" : 400182876,
+          "lngE7" : -755510253
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1433040190367",
+        "endTimestampMs" : "1433041374655"
+      },
+      "distance" : 372,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1433041573857",
+        "endTimestampMs" : "1433041874906"
+      },
+      "distance" : 2586,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400186195,
+          "lngE7" : -755558242
+        }, {
+          "latE7" : 400105171,
+          "lngE7" : -755848464
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.995705
+      },
+      "duration" : {
+        "startTimestampMs" : "1433041874906",
+        "endTimestampMs" : "1433081691570"
+      },
+      "centerLatE7" : 400105256,
+      "centerLngE7" : -755851653,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.001224569
+      }, {
+        "latitudeE7" : 398638334,
+        "longitudeE7" : -754036938,
+        "placeId" : "ChIJZSwZdMjyxokRerdBkhzCqGY",
+        "name" : "Rick's Tree Service",
+        "locationConfidence" : 9.626528E-4
+      }, {
+        "latitudeE7" : 400111851,
+        "longitudeE7" : -755868825,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 6.1421335E-4
+      }, {
+        "latitudeE7" : 400118470,
+        "longitudeE7" : -755851540,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 5.594429E-4
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 5.2408554E-4
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 2.2817013E-4
+      }, {
+        "latitudeE7" : 400090426,
+        "longitudeE7" : -755825878,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 1.8139172E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105149,
+        "longitudeE7" : -755851868,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.995705
+      },
+      "endLocation" : {
+        "latitudeE7" : 400755797,
+        "longitudeE7" : -751265183,
+        "placeId" : "ChIJfdI7RsuwxokR2Ovs17OgrdM",
+        "address" : "506 Stahr Rd\nElkins Park, PA 19027\nUSA",
+        "name" : "Saint Nicholas Serbian Orthodox Church",
+        "locationConfidence" : 18.783827
+      },
+      "duration" : {
+        "startTimestampMs" : "1433081691570",
+        "endTimestampMs" : "1433084297413"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104255,
+          "lngE7" : -755849227
+        }, {
+          "latE7" : 400748901,
+          "lngE7" : -751264419
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400755797,
+        "longitudeE7" : -751265183,
+        "placeId" : "ChIJfdI7RsuwxokR2Ovs17OgrdM",
+        "address" : "506 Stahr Rd\nElkins Park, PA 19027\nUSA",
+        "name" : "Saint Nicholas Serbian Orthodox Church",
+        "locationConfidence" : 18.783827
+      },
+      "duration" : {
+        "startTimestampMs" : "1433084297413",
+        "endTimestampMs" : "1433088841956"
+      },
+      "centerLatE7" : 400754210,
+      "centerLngE7" : -751265110,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400791715,
+        "longitudeE7" : -751298239,
+        "placeId" : "ChIJf2AxFMqwxokR6PObpv74100",
+        "locationConfidence" : 10.926156
+      }, {
+        "latitudeE7" : 400760305,
+        "longitudeE7" : -751260912,
+        "placeId" : "ChIJg3EqasuwxokR0RqM7yCVnt0",
+        "name" : "Elkins Park Free Library",
+        "locationConfidence" : 9.562809
+      }, {
+        "latitudeE7" : 400730996,
+        "longitudeE7" : -751247274,
+        "placeId" : "ChIJR6QKaDO3xokRZ-9AIRA9944",
+        "locationConfidence" : 7.148145
+      }, {
+        "latitudeE7" : 400760824,
+        "longitudeE7" : -751278458,
+        "placeId" : "ChIJW6XJI8uwxokRa8OkJLIBXQw",
+        "name" : "New Venice Pizza",
+        "locationConfidence" : 6.3354406
+      }, {
+        "latitudeE7" : 400767812,
+        "longitudeE7" : -751287587,
+        "placeId" : "ChIJT7RH4cqwxokRx-meBOtOMhU",
+        "name" : "Marco Polo Ristorante & Bar",
+        "locationConfidence" : 5.894494
+      }, {
+        "latitudeE7" : 400766021,
+        "longitudeE7" : -751288415,
+        "placeId" : "ChIJT7RH4cqwxokRHyvfP7X1Z_E",
+        "name" : "Tiffin",
+        "locationConfidence" : 2.9792309
+      }, {
+        "latitudeE7" : 400768166,
+        "longitudeE7" : -751286871,
+        "placeId" : "ChIJT7RH4cqwxokRDAEovLB-Gvg",
+        "name" : "PSA Healthcare",
+        "locationConfidence" : 2.8818924
+      }, {
+        "latitudeE7" : 400766350,
+        "longitudeE7" : -751275600,
+        "placeId" : "ChIJc_kLGsuwxokRYu5UQWj_byE",
+        "name" : "Century 21 Advantage Gold",
+        "locationConfidence" : 2.0077555
+      }, {
+        "latitudeE7" : 400769000,
+        "longitudeE7" : -751275000,
+        "placeId" : "ChIJT1ewl8uwxokRt9-ExP3Etts",
+        "name" : "Scorpion Athletics Yoga",
+        "locationConfidence" : 1.4653338
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400755797,
+        "longitudeE7" : -751265183,
+        "placeId" : "ChIJfdI7RsuwxokR2Ovs17OgrdM",
+        "address" : "506 Stahr Rd\nElkins Park, PA 19027\nUSA",
+        "name" : "Saint Nicholas Serbian Orthodox Church",
+        "locationConfidence" : 18.783827
+      },
+      "endLocation" : {
+        "latitudeE7" : 400197203,
+        "longitudeE7" : -756815723,
+        "placeId" : "ChIJwXcwzKX1xokRHZivbIYYpCU",
+        "address" : "977 E Lancaster Ave\nDowningtown, PA 19335\nUSA",
+        "name" : "Palace Bowling & Entertainment Center",
+        "locationConfidence" : 46.80843
+      },
+      "duration" : {
+        "startTimestampMs" : "1433088841956",
+        "endTimestampMs" : "1433093048129"
+      },
+      "distance" : 52345,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400755462,
+          "lngE7" : -751266860
+        }, {
+          "latE7" : 400537528,
+          "lngE7" : -755107116
+        }, {
+          "latE7" : 400430831,
+          "lngE7" : -755289459
+        }, {
+          "latE7" : 400393180,
+          "lngE7" : -755508193
+        }, {
+          "latE7" : 400197753,
+          "lngE7" : -756812133
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400538406,
+          "lngE7" : -755107498,
+          "timestampMs" : "1433091278171",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 400430870,
+          "lngE7" : -755289459,
+          "timestampMs" : "1433091480116",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 400393829,
+          "lngE7" : -755508728,
+          "timestampMs" : "1433091831199",
+          "accuracyMeters" : 7
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400197203,
+        "longitudeE7" : -756815723,
+        "placeId" : "ChIJwXcwzKX1xokRHZivbIYYpCU",
+        "address" : "977 E Lancaster Ave\nDowningtown, PA 19335\nUSA",
+        "name" : "Palace Bowling & Entertainment Center",
+        "locationConfidence" : 46.80843
+      },
+      "duration" : {
+        "startTimestampMs" : "1433093048129",
+        "endTimestampMs" : "1433100522086"
+      },
+      "centerLatE7" : 400198267,
+      "centerLngE7" : -756813867,
+      "visitConfidence" : 70,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400197334,
+        "longitudeE7" : -756816119,
+        "placeId" : "ChIJ__8_zKX1xokRxoaklLyvW1g",
+        "name" : "Positive Dinning",
+        "locationConfidence" : 18.749323
+      }, {
+        "latitudeE7" : 400197190,
+        "longitudeE7" : -756815890,
+        "placeId" : "ChIJwXcwzKX1xokRgobO9SJT2MA",
+        "name" : "Skip's Pro Shop",
+        "locationConfidence" : 13.760099
+      }, {
+        "latitudeE7" : 400213880,
+        "longitudeE7" : -756808083,
+        "placeId" : "ChIJgbefbab1xokRMeQOQdQF_fs",
+        "name" : "Bell Tavern Park",
+        "locationConfidence" : 11.274057
+      }, {
+        "latitudeE7" : 400187253,
+        "longitudeE7" : -756797538,
+        "placeId" : "ChIJxbxsjqX1xokRYzKVJecXelU",
+        "name" : "Hibachi of Downingtown",
+        "locationConfidence" : 2.967078
+      }, {
+        "latitudeE7" : 400195850,
+        "longitudeE7" : -756802350,
+        "placeId" : "ChIJ6xIC6aX1xokRRB-nULcSgNs",
+        "name" : "Kinetx Chiropractic & Rehab",
+        "locationConfidence" : 1.9051341
+      }, {
+        "latitudeE7" : 400184687,
+        "longitudeE7" : -756849898,
+        "placeId" : "ChIJ88nssrz1xokRh1tbDV9hq8A",
+        "name" : "Bangles Indian Cuisine",
+        "locationConfidence" : 1.1301126
+      }, {
+        "latitudeE7" : 400182193,
+        "longitudeE7" : -756806313,
+        "placeId" : "ChIJD-t_oaX1xokRVR-K1LFYuiM",
+        "name" : "Ashbridge Manor",
+        "locationConfidence" : 1.1223657
+      }, {
+        "latitudeE7" : 400196752,
+        "longitudeE7" : -756842093,
+        "placeId" : "ChIJaxXyDKP1xokRStxADL0K9ng",
+        "name" : "The Home Depot",
+        "locationConfidence" : 1.0703285
+      }, {
+        "latitudeE7" : 400196980,
+        "longitudeE7" : -756857150,
+        "placeId" : "ChIJg5EZA6X1xokRWv7OzT_yuTw",
+        "name" : "Christmas Tree Shops",
+        "locationConfidence" : 0.23549159
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1433100590107",
+        "endTimestampMs" : "1433101310056"
+      },
+      "distance" : 5487,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400198974,
+          "lngE7" : -756813583
+        }, {
+          "latE7" : 400369873,
+          "lngE7" : -756208038
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400339374,
+        "longitudeE7" : -756220817,
+        "placeId" : "ChIJsRr8Ep70xokRkpUJLCX83MM",
+        "address" : "410 Swedesford Rd\nExton, PA 19341\nUSA",
+        "name" : "Meadowbrook Manor Park",
+        "locationConfidence" : 41.293404
+      },
+      "duration" : {
+        "startTimestampMs" : "1433101322067",
+        "endTimestampMs" : "1433122358691"
+      },
+      "centerLatE7" : 400364320,
+      "centerLngE7" : -756208020,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400355470,
+        "longitudeE7" : -756215919,
+        "placeId" : "ChIJPXe7Mp70xokRY9YOXrFEqd4",
+        "name" : "Aqua Pennsylvania Inc",
+        "locationConfidence" : 22.651146
+      }, {
+        "latitudeE7" : 400340264,
+        "longitudeE7" : -756193099,
+        "placeId" : "ChIJMdtXlWHzxokRJXEnHe1IW_0",
+        "name" : "Brians House",
+        "locationConfidence" : 9.559889
+      }, {
+        "latitudeE7" : 400340570,
+        "longitudeE7" : -756193160,
+        "placeId" : "ChIJMdtXlWHzxokRH5KlrbUWEFs",
+        "name" : "Collective ConSERVation",
+        "locationConfidence" : 9.082385
+      }, {
+        "latitudeE7" : 400388409,
+        "longitudeE7" : -756218687,
+        "placeId" : "ChIJxaaPBmDzxokRhUMbEjt707Q",
+        "name" : "Dr. Frank P. Tutterice, DO",
+        "locationConfidence" : 2.7015314
+      }, {
+        "latitudeE7" : 400345661,
+        "longitudeE7" : -756231686,
+        "placeId" : "ChIJReUlip70xokRxpW3xyzbiKc",
+        "name" : "Main Line Rehab Associates Inc",
+        "locationConfidence" : 2.5959594
+      }, {
+        "latitudeE7" : 400341951,
+        "longitudeE7" : -756230972,
+        "placeId" : "ChIJh3Erip70xokR2EzqAFBDB2E",
+        "name" : "Oriental Medicine",
+        "locationConfidence" : 1.2847126
+      }, {
+        "latitudeE7" : 400342709,
+        "longitudeE7" : -756229084,
+        "placeId" : "ChIJVZ4cip70xokR5XpkKZs9WjA",
+        "name" : "Williams Mark S DDS",
+        "locationConfidence" : 1.19819
+      }, {
+        "latitudeE7" : 400342559,
+        "longitudeE7" : -756231094,
+        "placeId" : "ChIJJQ8rip70xokRSJLxTChRtBs",
+        "name" : "Consciousness Institute: Ward Susan B MD",
+        "locationConfidence" : 1.0841615
+      }, {
+        "latitudeE7" : 400343695,
+        "longitudeE7" : -756230411,
+        "placeId" : "ChIJ738fip70xokRmgBlDupCHYs",
+        "name" : "Lunger Carrie",
+        "locationConfidence" : 1.0760709
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400367956,
+          "lngE7" : -756205444,
+          "timestampMs" : "1433102537837",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 400368319,
+          "lngE7" : -756211745,
+          "timestampMs" : "1433112350714",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 400363169,
+          "lngE7" : -756205041,
+          "timestampMs" : "1433117480715",
+          "accuracyMeters" : 25
+        } ]
+      }
+    }
+  } ]
+}

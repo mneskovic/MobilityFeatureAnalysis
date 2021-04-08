@@ -1,0 +1,3111 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.984924
+      },
+      "duration" : {
+        "startTimestampMs" : "1451608285476",
+        "endTimestampMs" : "1451612401736"
+      },
+      "centerLatE7" : 400105740,
+      "centerLngE7" : -755852468,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.0049940525
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.003977063
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0028847873
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0014095928
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 9.1791246E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 8.925502E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.984924
+      },
+      "endLocation" : {
+        "latitudeE7" : 400164732,
+        "longitudeE7" : -755785888
+      },
+      "duration" : {
+        "startTimestampMs" : "1451612401736",
+        "endTimestampMs" : "1451614840569"
+      },
+      "distance" : 583,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        }, {
+          "latE7" : 400159683,
+          "lngE7" : -755783843
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400164732,
+        "longitudeE7" : -755785888
+      },
+      "endLocation" : {
+        "latitudeE7" : 400172984,
+        "longitudeE7" : -755770684
+      },
+      "duration" : {
+        "startTimestampMs" : "1451614840569",
+        "endTimestampMs" : "1451615768467"
+      },
+      "distance" : 158,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400159683,
+          "lngE7" : -755783843
+        }, {
+          "latE7" : 400176086,
+          "lngE7" : -755773162
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400191840,
+        "longitudeE7" : -755766050,
+        "placeId" : "ChIJV-bMTwLzxokRizoInuKQQxk",
+        "address" : "25 Tulip Dr, Malvern, PA 19355-3329, United States",
+        "name" : "Parsons Associate",
+        "locationConfidence" : 69.32419
+      },
+      "duration" : {
+        "startTimestampMs" : "1451615768467",
+        "endTimestampMs" : "1451627372629"
+      },
+      "centerLatE7" : 400173597,
+      "centerLngE7" : -755768802,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400191840,
+        "longitudeE7" : -755766050,
+        "placeId" : "ChIJV-bMTwLzxokRiWMipK8tfN0",
+        "name" : "Farrell Capital Management Inc",
+        "locationConfidence" : 30.675814
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400191840,
+        "longitudeE7" : -755766050,
+        "placeId" : "ChIJV-bMTwLzxokRizoInuKQQxk",
+        "locationConfidence" : 69.32419
+      },
+      "endLocation" : {
+        "latitudeE7" : 400134481,
+        "longitudeE7" : -755816664
+      },
+      "duration" : {
+        "startTimestampMs" : "1451627372629",
+        "endTimestampMs" : "1451628104299"
+      },
+      "distance" : 533,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400176506,
+          "lngE7" : -755772247
+        }, {
+          "latE7" : 400132293,
+          "lngE7" : -755822906
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400137151,
+        "longitudeE7" : -755813316
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924
+      },
+      "duration" : {
+        "startTimestampMs" : "1451628104299",
+        "endTimestampMs" : "1451629693317"
+      },
+      "distance" : 474,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400138969,
+          "lngE7" : -755810165
+        }, {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.982956
+      },
+      "duration" : {
+        "startTimestampMs" : "1451629693317",
+        "endTimestampMs" : "1451756486524"
+      },
+      "centerLatE7" : 400104546,
+      "centerLngE7" : -755852089,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.007921737
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.00237523
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.0021187088
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0019816975
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.0010104373
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 9.3545736E-4
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 7.044924E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924
+      },
+      "endLocation" : {
+        "latitudeE7" : 399569180,
+        "longitudeE7" : -751967614,
+        "placeId" : "ChIJ_U0V4VbGxokR1Wld0GVIjrY",
+        "address" : "3711 Market St\nPhiladelphia, PA 19104\nUSA",
+        "name" : "Han Dynasty",
+        "locationConfidence" : 90.1312
+      },
+      "duration" : {
+        "startTimestampMs" : "1451756486524",
+        "endTimestampMs" : "1451773297614"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        }, {
+          "latE7" : 399474983,
+          "lngE7" : -752144393
+        }, {
+          "latE7" : 399489097,
+          "lngE7" : -752143630
+        }, {
+          "latE7" : 399575157,
+          "lngE7" : -751729736
+        }, {
+          "latE7" : 399574890,
+          "lngE7" : -751712951
+        }, {
+          "latE7" : 399543876,
+          "lngE7" : -751713562
+        }, {
+          "latE7" : 399536437,
+          "lngE7" : -751736526
+        }, {
+          "latE7" : 399568710,
+          "lngE7" : -751979293
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 399476433,
+          "lngE7" : -752146072,
+          "timestampMs" : "1451763920214",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : 399489365,
+          "lngE7" : -752143707,
+          "timestampMs" : "1451763981857",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 399577408,
+          "lngE7" : -751729050,
+          "timestampMs" : "1451772749588",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 399576378,
+          "lngE7" : -751714783,
+          "timestampMs" : "1451772793640",
+          "accuracyMeters" : 7
+        }, {
+          "latE7" : 399545937,
+          "lngE7" : -751712570,
+          "timestampMs" : "1451772886617",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 399537010,
+          "lngE7" : -751736450,
+          "timestampMs" : "1451772980632",
+          "accuracyMeters" : 13
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399569180,
+        "longitudeE7" : -751967614,
+        "placeId" : "ChIJ_U0V4VbGxokR1Wld0GVIjrY",
+        "address" : "3711 Market St\nPhiladelphia, PA 19104\nUSA",
+        "name" : "Han Dynasty",
+        "locationConfidence" : 90.1312
+      },
+      "duration" : {
+        "startTimestampMs" : "1451773297614",
+        "endTimestampMs" : "1451776657462"
+      },
+      "centerLatE7" : 399566956,
+      "centerLngE7" : -751974188,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399570315,
+        "longitudeE7" : -751974975,
+        "placeId" : "ChIJoQjz3FbGxokRwKDAM_M4_Fw",
+        "name" : "Penn Medicine University City",
+        "locationConfidence" : 1.4661502
+      }, {
+        "latitudeE7" : 399582623,
+        "longitudeE7" : -751990919,
+        "placeId" : "ChIJ-VjoRlbGxokR4IId6ErfHyo",
+        "name" : "Penn Presbyterian Medical Center",
+        "locationConfidence" : 0.7444684
+      }, {
+        "latitudeE7" : 399563495,
+        "longitudeE7" : -751978285,
+        "placeId" : "ChIJ50ZM-1bGxokRRGLn4FNXe-8",
+        "name" : "National Board of Medical Examiners",
+        "locationConfidence" : 0.709087
+      }, {
+        "latitudeE7" : 399570315,
+        "longitudeE7" : -751974975,
+        "placeId" : "ChIJoQjz3FbGxokR9u9Zr6TVqUY",
+        "name" : "Penn Musculoskelelal Center",
+        "locationConfidence" : 0.43640324
+      }, {
+        "latitudeE7" : 399574465,
+        "longitudeE7" : -751979755,
+        "placeId" : "ChIJ7QxTi1bGxokRLUDM3v59WGs",
+        "name" : "Medical Arts Building",
+        "locationConfidence" : 0.42497808
+      }, {
+        "latitudeE7" : 399569687,
+        "longitudeE7" : -751975836,
+        "placeId" : "ChIJw5vY8VbGxokRVfrLFgcWxkg",
+        "name" : "Penn Medicine",
+        "locationConfidence" : 0.4115446
+      }, {
+        "latitudeE7" : 399568508,
+        "longitudeE7" : -751961203,
+        "placeId" : "ChIJgx3E3FbGxokROk1byCCZyls",
+        "name" : "Penncare Internal Medicine Associates",
+        "locationConfidence" : 0.35223234
+      }, {
+        "latitudeE7" : 399569687,
+        "longitudeE7" : -751975836,
+        "placeId" : "ChIJw5vY8VbGxokRSFQKRTDcO2U",
+        "name" : "Corner Bakery Cafe",
+        "locationConfidence" : 0.31756783
+      }, {
+        "latitudeE7" : 399567606,
+        "longitudeE7" : -751971636,
+        "placeId" : "ChIJW8Xc51bGxokRC3bT-JyiW5E",
+        "name" : "Avid Radiopharmaceuticals Inc",
+        "locationConfidence" : 0.23876087
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399566325,
+        "longitudeE7" : -751974475
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.72303
+      },
+      "duration" : {
+        "startTimestampMs" : "1451776657462",
+        "endTimestampMs" : "1451779629431"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399566040,
+          "lngE7" : -751974563
+        }, {
+          "latE7" : 399490509,
+          "lngE7" : -752130661
+        }, {
+          "latE7" : 400104064,
+          "lngE7" : -755849456
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 399490585,
+          "lngE7" : -752131577,
+          "timestampMs" : "1451777344398",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.72303
+      },
+      "duration" : {
+        "startTimestampMs" : "1451779629431",
+        "endTimestampMs" : "1451781718457"
+      },
+      "centerLatE7" : 400104872,
+      "centerLngE7" : -755850933,
+      "visitConfidence" : 74,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.18118483
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.03204435
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.02609285
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.011133377
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.00975306
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.00890578
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.007858796
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400104886,
+        "longitudeE7" : -755851574
+      },
+      "endLocation" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132
+      },
+      "duration" : {
+        "startTimestampMs" : "1451781718457",
+        "endTimestampMs" : "1451783639353"
+      },
+      "distance" : 8025,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103836,
+          "lngE7" : -755849609
+        }, {
+          "latE7" : 400175476,
+          "lngE7" : -756113967
+        }, {
+          "latE7" : 400183334,
+          "lngE7" : -755510330
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400175972,
+          "lngE7" : -756114273,
+          "timestampMs" : "1451782360458",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "address" : "1538 Millrace Lane, West Chester, Pennsylvania 19380, United States",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1451783639353",
+        "endTimestampMs" : "1451794719703"
+      },
+      "centerLatE7" : 400183349,
+      "centerLngE7" : -755507181,
+      "visitConfidence" : 78,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400160904,
+        "longitudeE7" : -755530132,
+        "placeId" : "ChIJUSWjJfPyxokRlsrbFWU9oTQ",
+        "address" : "1538 Millrace Lane, West Chester, Pennsylvania 19380, United States",
+        "name" : "Climb High Consulting",
+        "locationConfidence" : 100.0
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924
+      },
+      "duration" : {
+        "startTimestampMs" : "1451794719703",
+        "endTimestampMs" : "1451795337496"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400183639,
+          "lngE7" : -755510330
+        }, {
+          "latE7" : 400187606,
+          "lngE7" : -755554885
+        }, {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400187225,
+          "lngE7" : -755554581,
+          "timestampMs" : "1451794776773",
+          "accuracyMeters" : 7
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.48826
+      },
+      "duration" : {
+        "startTimestampMs" : "1451795337496",
+        "endTimestampMs" : "1451823727674"
+      },
+      "centerLatE7" : 400105182,
+      "centerLngE7" : -755851994,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.30782852
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.08642324
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.058729544
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.02651651
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.018253054
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.013990354
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.48826
+      },
+      "endLocation" : {
+        "latitudeE7" : 400087998,
+        "longitudeE7" : -755855303
+      },
+      "duration" : {
+        "startTimestampMs" : "1451823727674",
+        "endTimestampMs" : "1451824652587"
+      },
+      "distance" : 159,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        }, {
+          "latE7" : 400088157,
+          "lngE7" : -755855636
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400087998,
+        "longitudeE7" : -755855303
+      },
+      "endLocation" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648
+      },
+      "duration" : {
+        "startTimestampMs" : "1451824652587",
+        "endTimestampMs" : "1451835098762"
+      },
+      "distance" : 144370,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400088157,
+          "lngE7" : -755855636
+        }, {
+          "latE7" : 411076354,
+          "lngE7" : -756524276
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648,
+        "placeId" : "ChIJY0I0LiX8xIkRPmm_iPPVEsQ",
+        "address" : "434 Jack Frost Mountain Rd\nWhite Haven, PA 18661\nUSA",
+        "name" : "Jack Frost Ski Resort",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1451835098762",
+        "endTimestampMs" : "1451835789716"
+      },
+      "centerLatE7" : 411087600,
+      "centerLngE7" : -756524200,
+      "visitConfidence" : 77,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648
+      },
+      "endLocation" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648
+      },
+      "duration" : {
+        "startTimestampMs" : "1451835789716",
+        "endTimestampMs" : "1451837419677"
+      },
+      "distance" : 585,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 411076354,
+          "lngE7" : -756524581
+        }, {
+          "latE7" : 411070747,
+          "lngE7" : -756531372
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648,
+        "placeId" : "ChIJY0I0LiX8xIkRPmm_iPPVEsQ",
+        "address" : "434 Jack Frost Mountain Rd\nWhite Haven, PA 18661\nUSA",
+        "name" : "Jack Frost Ski Resort",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1451837419677",
+        "endTimestampMs" : "1451852160968"
+      },
+      "centerLatE7" : 411078269,
+      "centerLngE7" : -756531108,
+      "visitConfidence" : 56,
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 411078945,
+          "lngE7" : -756539440,
+          "timestampMs" : "1451837419677",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : 411078512,
+          "lngE7" : -756533268,
+          "timestampMs" : "1451841295920",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 411072064,
+          "lngE7" : -756531633,
+          "timestampMs" : "1451842947832",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 411082789,
+          "lngE7" : -756528796,
+          "timestampMs" : "1451845902715",
+          "accuracyMeters" : 96
+        }, {
+          "latE7" : 411089301,
+          "lngE7" : -756523075,
+          "timestampMs" : "1451847731022",
+          "accuracyMeters" : 17
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648,
+        "placeId" : "ChIJY0I0LiX8xIkRPmm_iPPVEsQ",
+        "address" : "434 Jack Frost Mountain Rd\nWhite Haven, PA 18661\nUSA",
+        "name" : "Jack Frost Ski Resort",
+        "locationConfidence" : 100.0
+      },
+      "endLocation" : {
+        "latitudeE7" : 411103905,
+        "longitudeE7" : -756527598
+      },
+      "duration" : {
+        "startTimestampMs" : "1451852160968",
+        "endTimestampMs" : "1451852779303"
+      },
+      "distance" : 258,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 411081753,
+          "lngE7" : -756525791,
+          "timestampMs" : "1451852160968",
+          "accuracyMeters" : 96
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 411103905,
+        "longitudeE7" : -756527598
+      },
+      "endLocation" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648
+      },
+      "duration" : {
+        "startTimestampMs" : "1451852779303",
+        "endTimestampMs" : "1451853315571"
+      },
+      "distance" : 258,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 411073923,
+        "longitudeE7" : -756534648,
+        "placeId" : "ChIJY0I0LiX8xIkRPmm_iPPVEsQ",
+        "address" : "434 Jack Frost Mountain Rd\nWhite Haven, PA 18661\nUSA",
+        "name" : "Jack Frost Ski Resort",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1451853315571",
+        "endTimestampMs" : "1451856306202"
+      },
+      "centerLatE7" : 411076767,
+      "centerLngE7" : -756529650,
+      "visitConfidence" : 68,
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 411081616,
+          "lngE7" : -756524489,
+          "timestampMs" : "1451854266561",
+          "accuracyMeters" : 96
+        }, {
+          "latE7" : 411074905,
+          "lngE7" : -756532646,
+          "timestampMs" : "1451856260560",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 411074607,
+        "longitudeE7" : -756532205
+      },
+      "endLocation" : {
+        "latitudeE7" : 399691540,
+        "longitudeE7" : -755739470
+      },
+      "duration" : {
+        "startTimestampMs" : "1451856306202",
+        "endTimestampMs" : "1451864470778"
+      },
+      "distance" : 153584,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 411073799,
+          "lngE7" : -756528091
+        }, {
+          "latE7" : 410704612,
+          "lngE7" : -757038497
+        }, {
+          "latE7" : 399841918,
+          "lngE7" : -753814620
+        }, {
+          "latE7" : 399691429,
+          "lngE7" : -755741119
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 410705795,
+          "lngE7" : -757039337,
+          "timestampMs" : "1451857837530",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 399842567,
+          "lngE7" : -753814545,
+          "timestampMs" : "1451863256151",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399691540,
+        "longitudeE7" : -755739470,
+        "placeId" : "ChIJf5ZJheHtxokR-kta7_46b0Y",
+        "address" : "1107 West Chester Pike\nWest Chester, PA 19382\nUSA",
+        "name" : "Applebee's Grill + Bar",
+        "locationConfidence" : 45.14238
+      },
+      "duration" : {
+        "startTimestampMs" : "1451864470778",
+        "endTimestampMs" : "1451868227412"
+      },
+      "centerLatE7" : 399690560,
+      "centerLngE7" : -755741140,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399693497,
+        "longitudeE7" : -755745810,
+        "placeId" : "ChIJx6QxJ_jxxokRbgrdqn2vuUw",
+        "name" : "US Social Security Administration",
+        "locationConfidence" : 31.004198
+      }, {
+        "latitudeE7" : 399694425,
+        "longitudeE7" : -755743943,
+        "placeId" : "ChIJt7PlhH_xxokR6nrxOvlenYg",
+        "name" : "Qdoba Mexican Grill",
+        "locationConfidence" : 6.815925
+      }, {
+        "latitudeE7" : 399691245,
+        "longitudeE7" : -755739342,
+        "placeId" : "ChIJq5VJheHtxokRPZMiABinPZY",
+        "name" : "J K Hamburgers LLC",
+        "locationConfidence" : 4.326648
+      }, {
+        "latitudeE7" : 399696798,
+        "longitudeE7" : -755745746,
+        "placeId" : "ChIJc0oUKIDxxokRROvMYDfKgbs",
+        "name" : "West Goshen Town Center",
+        "locationConfidence" : 3.3801427
+      }, {
+        "latitudeE7" : 399696336,
+        "longitudeE7" : -755744072,
+        "placeId" : "ChIJq5VJheHtxokRtKsTwoJSkGk",
+        "name" : "Jake's Wayback Burgers",
+        "locationConfidence" : 2.4357488
+      }, {
+        "latitudeE7" : 399703685,
+        "longitudeE7" : -755739149,
+        "placeId" : "ChIJXwqSO4DxxokRBqxLgGExaLA",
+        "name" : "Panera Bread",
+        "locationConfidence" : 1.056279
+      }, {
+        "latitudeE7" : 399699988,
+        "longitudeE7" : -755744204,
+        "placeId" : "ChIJt7PlhH_xxokRIFznREM2GYk",
+        "name" : "Fusion Restaurant",
+        "locationConfidence" : 0.72997093
+      }, {
+        "latitudeE7" : 399689395,
+        "longitudeE7" : -755724215,
+        "placeId" : "ChIJe_KFs4HxxokRluGG1ggSxks",
+        "name" : "MoneyGram",
+        "locationConfidence" : 0.59803456
+      }, {
+        "latitudeE7" : 399687375,
+        "longitudeE7" : -755737725,
+        "placeId" : "ChIJN4BB0YHxxokRpohxrnHhyLQ",
+        "name" : "Massage Envy",
+        "locationConfidence" : 0.4912424
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399691540,
+        "longitudeE7" : -755739470,
+        "placeId" : "ChIJf5ZJheHtxokR-kta7_46b0Y",
+        "address" : "1107 West Chester Pike\nWest Chester, PA 19382\nUSA",
+        "name" : "Applebee's Grill + Bar",
+        "locationConfidence" : 45.14238
+      },
+      "endLocation" : {
+        "latitudeE7" : 399572995,
+        "longitudeE7" : -755663048
+      },
+      "duration" : {
+        "startTimestampMs" : "1451868227412",
+        "endTimestampMs" : "1451869897225"
+      },
+      "distance" : 1435,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399691429,
+          "lngE7" : -755741119
+        }, {
+          "latE7" : 399569664,
+          "lngE7" : -755670242
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 399570978,
+        "longitudeE7" : -755666845,
+        "placeId" : "ChIJuVAWv5vxxokRRzDfBf64zfg",
+        "address" : "801 S 5 Points Rd\nWest Chester, PA 19382\nUSA",
+        "name" : "801 S 5 Points Rd",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 98.96156
+      },
+      "duration" : {
+        "startTimestampMs" : "1451869897225",
+        "endTimestampMs" : "1451870797836"
+      },
+      "centerLatE7" : 399572158,
+      "centerLngE7" : -755665142,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 399580390,
+        "longitudeE7" : -755653760,
+        "placeId" : "ChIJ1w1yVZrxxokRUAO-iEDUA0s",
+        "name" : "Altair Energy Trading",
+        "locationConfidence" : 0.871605
+      }, {
+        "latitudeE7" : 399581651,
+        "longitudeE7" : -755646877,
+        "placeId" : "ChIJmfgk95rxxokR21e08V2ILFI",
+        "name" : "KLM Electric, LLC",
+        "locationConfidence" : 0.11092555
+      }, {
+        "latitudeE7" : 399572026,
+        "longitudeE7" : -755689875,
+        "placeId" : "ChIJlULuEpzxxokRQrm7fwRUcU0",
+        "name" : "Spencer Studios",
+        "locationConfidence" : 0.03591038
+      }, {
+        "latitudeE7" : 399598043,
+        "longitudeE7" : -755656221,
+        "placeId" : "ChIJJxVTJ5vxxokRnE84jyROXGI",
+        "name" : "Laser Tech Future Graphics",
+        "locationConfidence" : 0.01159332
+      }, {
+        "latitudeE7" : 399544040,
+        "longitudeE7" : -755652473,
+        "placeId" : "ChIJdwIVn5nxxokRbnRxjl84YsI",
+        "name" : "Michele H. Contino, LPC",
+        "locationConfidence" : 0.008400819
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399571981,
+        "longitudeE7" : -755665517
+      },
+      "endLocation" : {
+        "latitudeE7" : 400106188,
+        "longitudeE7" : -755850298
+      },
+      "duration" : {
+        "startTimestampMs" : "1451870797836",
+        "endTimestampMs" : "1451872189207"
+      },
+      "distance" : 6153,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399569778,
+          "lngE7" : -755670318
+        }, {
+          "latE7" : 400106925,
+          "lngE7" : -755848541
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.61501
+      },
+      "duration" : {
+        "startTimestampMs" : "1451872189207",
+        "endTimestampMs" : "1451879765932"
+      },
+      "centerLatE7" : 400105407,
+      "centerLngE7" : -755851776,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.2026662
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.0688596
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.058658432
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.022825103
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.018265367
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.013709044
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400101581,
+        "longitudeE7" : -755851235
+      },
+      "endLocation" : {
+        "latitudeE7" : 400071797,
+        "longitudeE7" : -755847541
+      },
+      "duration" : {
+        "startTimestampMs" : "1451883036225",
+        "endTimestampMs" : "1451907423084"
+      },
+      "distance" : 331,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400101776,
+          "lngE7" : -755851058
+        }, {
+          "latE7" : 400069618,
+          "lngE7" : -755849609
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400068949,
+        "longitudeE7" : -755847188
+      },
+      "endLocation" : {
+        "latitudeE7" : 399865380,
+        "longitudeE7" : -755721096
+      },
+      "duration" : {
+        "startTimestampMs" : "1451908725236",
+        "endTimestampMs" : "1451909213667"
+      },
+      "distance" : 2499,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400068168,
+          "lngE7" : -755847854
+        }, {
+          "latE7" : 399865455,
+          "lngE7" : -755720977
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399865485,
+        "longitudeE7" : -755721200
+      },
+      "endLocation" : {
+        "latitudeE7" : 399859778,
+        "longitudeE7" : -755715564
+      },
+      "duration" : {
+        "startTimestampMs" : "1451909213667",
+        "endTimestampMs" : "1451910042592"
+      },
+      "distance" : 69,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399865341,
+          "lngE7" : -755721435
+        }, {
+          "latE7" : 399860076,
+          "lngE7" : -755715026
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399844556,
+        "longitudeE7" : -755700533
+      },
+      "endLocation" : {
+        "latitudeE7" : 399837155,
+        "longitudeE7" : -755693224
+      },
+      "duration" : {
+        "startTimestampMs" : "1451914913864",
+        "endTimestampMs" : "1451915930348"
+      },
+      "distance" : 103,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399843215,
+          "lngE7" : -755703506
+        }, {
+          "latE7" : 399835281,
+          "lngE7" : -755697479
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399801606,
+        "longitudeE7" : -755658124
+      },
+      "endLocation" : {
+        "latitudeE7" : 399835698,
+        "longitudeE7" : -755677312
+      },
+      "duration" : {
+        "startTimestampMs" : "1451925472809",
+        "endTimestampMs" : "1451926396885"
+      },
+      "distance" : 356,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399799232,
+          "lngE7" : -755663681
+        }, {
+          "latE7" : 399835548,
+          "lngE7" : -755677185
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399837833,
+        "longitudeE7" : -755678694
+      },
+      "endLocation" : {
+        "latitudeE7" : 399860687,
+        "longitudeE7" : -755693476
+      },
+      "duration" : {
+        "startTimestampMs" : "1451926653000",
+        "endTimestampMs" : "1451928136940"
+      },
+      "distance" : 283,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399838371,
+          "lngE7" : -755679168
+        }, {
+          "latE7" : 399868888,
+          "lngE7" : -755700149
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399860687,
+        "longitudeE7" : -755693476
+      },
+      "endLocation" : {
+        "latitudeE7" : 399891762,
+        "longitudeE7" : -755713579
+      },
+      "duration" : {
+        "startTimestampMs" : "1451928136940",
+        "endTimestampMs" : "1451928918251"
+      },
+      "distance" : 384,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399868888,
+          "lngE7" : -755700149
+        }, {
+          "latE7" : 399893417,
+          "lngE7" : -755714797
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399894955,
+        "longitudeE7" : -755715645
+      },
+      "endLocation" : {
+        "latitudeE7" : 399907691,
+        "longitudeE7" : -755723885
+      },
+      "duration" : {
+        "startTimestampMs" : "1451930063362",
+        "endTimestampMs" : "1451930983322"
+      },
+      "distance" : 158,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399895057,
+          "lngE7" : -755715713
+        }, {
+          "latE7" : 399910926,
+          "lngE7" : -755716552
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399929819,
+        "longitudeE7" : -755738201
+      },
+      "endLocation" : {
+        "latitudeE7" : 399946714,
+        "longitudeE7" : -755749133
+      },
+      "duration" : {
+        "startTimestampMs" : "1451933474246",
+        "endTimestampMs" : "1451934952091"
+      },
+      "distance" : 209,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399926986,
+          "lngE7" : -755736160
+        }, {
+          "latE7" : 399953880,
+          "lngE7" : -755754928
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399946714,
+        "longitudeE7" : -755749133
+      },
+      "endLocation" : {
+        "latitudeE7" : 399971860,
+        "longitudeE7" : -755765404
+      },
+      "duration" : {
+        "startTimestampMs" : "1451934952091",
+        "endTimestampMs" : "1451935461819"
+      },
+      "distance" : 282,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399953880,
+          "lngE7" : -755754928
+        }, {
+          "latE7" : 399974136,
+          "lngE7" : -755775527
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399973671,
+        "longitudeE7" : -755766576
+      },
+      "endLocation" : {
+        "latitudeE7" : 399986069,
+        "longitudeE7" : -755774600
+      },
+      "duration" : {
+        "startTimestampMs" : "1451935845880",
+        "endTimestampMs" : "1451936494215"
+      },
+      "distance" : 149,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399976310,
+          "lngE7" : -755774078
+        }, {
+          "latE7" : 399984550,
+          "lngE7" : -755778045
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400004973,
+        "longitudeE7" : -755786834
+      },
+      "endLocation" : {
+        "latitudeE7" : 400082303,
+        "longitudeE7" : -755836887
+      },
+      "duration" : {
+        "startTimestampMs" : "1451937623702",
+        "endTimestampMs" : "1451939268570"
+      },
+      "distance" : 793,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400010871,
+          "lngE7" : -755780487
+        }, {
+          "latE7" : 400081520,
+          "lngE7" : -755836334
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400069070,
+        "longitudeE7" : -755828320
+      },
+      "endLocation" : {
+        "latitudeE7" : 400082303,
+        "longitudeE7" : -755836887
+      },
+      "duration" : {
+        "startTimestampMs" : "1451939268570",
+        "endTimestampMs" : "1451940059520"
+      },
+      "distance" : 164,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400062675,
+          "lngE7" : -755837249
+        }, {
+          "latE7" : 400081520,
+          "lngE7" : -755836334
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400085253,
+        "longitudeE7" : -755838796
+      },
+      "endLocation" : {
+        "latitudeE7" : 400101166,
+        "longitudeE7" : -755849098
+      },
+      "duration" : {
+        "startTimestampMs" : "1451940427171",
+        "endTimestampMs" : "1451940624307"
+      },
+      "distance" : 152,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400084304,
+          "lngE7" : -755840530
+        }, {
+          "latE7" : 400100822,
+          "lngE7" : -755849609
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400097582,
+        "longitudeE7" : -755846778
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105374,
+        "longitudeE7" : -755851822
+      },
+      "duration" : {
+        "startTimestampMs" : "1451940624307",
+        "endTimestampMs" : "1451940756158"
+      },
+      "distance" : 90,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400098838,
+          "lngE7" : -755847702
+        }, {
+          "latE7" : 400104064,
+          "lngE7" : -755849456
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.28996
+      },
+      "duration" : {
+        "startTimestampMs" : "1451940853523",
+        "endTimestampMs" : "1451963940695"
+      },
+      "centerLatE7" : 400105245,
+      "centerLngE7" : -755852656,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.4910685
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.07849844
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.060015626
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.045642756
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.023097139
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.011714685
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+        "latitudeE7" : 0,
+        "longitudeE7" : 0
+      },
+      "duration" : {
+        "startTimestampMs" : "1451994579646",
+        "endTimestampMs" : "1451995756440"
+      },
+      "distance" : 3853,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400104484,
+          "lngE7" : -755849075
+        }, {
+          "latE7" : 399800491,
+          "lngE7" : -755646896
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399796796,
+        "longitudeE7" : -755641449
+      },
+      "endLocation" : {
+        "latitudeE7" : 399849147,
+        "longitudeE7" : -755681625
+      },
+      "duration" : {
+        "startTimestampMs" : "1452018638344",
+        "endTimestampMs" : "1452020560590"
+      },
+      "distance" : 444,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399796371,
+          "lngE7" : -755642471
+        }, {
+          "latE7" : 399843521,
+          "lngE7" : -755681610
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399849147,
+        "longitudeE7" : -755681625
+      },
+      "endLocation" : {
+        "latitudeE7" : 399867098,
+        "longitudeE7" : -755693613
+      },
+      "duration" : {
+        "startTimestampMs" : "1452020560590",
+        "endTimestampMs" : "1452021957698"
+      },
+      "distance" : 113,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399843521,
+          "lngE7" : -755681610
+        }, {
+          "latE7" : 399870643,
+          "lngE7" : -755696487
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399867098,
+        "longitudeE7" : -755693613
+      },
+      "endLocation" : {
+        "latitudeE7" : 399935417,
+        "longitudeE7" : -755739246
+      },
+      "duration" : {
+        "startTimestampMs" : "1452021957698",
+        "endTimestampMs" : "1452024453980"
+      },
+      "distance" : 842,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399870643,
+          "lngE7" : -755696487
+        }, {
+          "latE7" : 399930419,
+          "lngE7" : -755732879
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399935417,
+        "longitudeE7" : -755739246
+      },
+      "endLocation" : {
+        "latitudeE7" : 399984500,
+        "longitudeE7" : -755772037
+      },
+      "duration" : {
+        "startTimestampMs" : "1452024453980",
+        "endTimestampMs" : "1452026391381"
+      },
+      "distance" : 537,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399930419,
+          "lngE7" : -755732879
+        }, {
+          "latE7" : 399983177,
+          "lngE7" : -755769577
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399984500,
+        "longitudeE7" : -755772037
+      },
+      "endLocation" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924
+      },
+      "duration" : {
+        "startTimestampMs" : "1452026391381",
+        "endTimestampMs" : "1452027101298"
+      },
+      "distance" : 1476,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399982986,
+          "lngE7" : -755769195
+        }, {
+          "latE7" : 400103912,
+          "lngE7" : -755849533
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.59956
+      },
+      "duration" : {
+        "startTimestampMs" : "1452027101298",
+        "endTimestampMs" : "1452033588269"
+      },
+      "centerLatE7" : 400105817,
+      "centerLngE7" : -755851326,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.20579402
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.05967703
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.05341709
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.049487587
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.019351494
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.012712647
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400104229,
+        "longitudeE7" : -755850192
+      },
+      "endLocation" : {
+        "latitudeE7" : 400073355,
+        "longitudeE7" : -755831233
+      },
+      "duration" : {
+        "startTimestampMs" : "1452033872033",
+        "endTimestampMs" : "1452042914309"
+      },
+      "distance" : 379,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400103874,
+          "lngE7" : -755849609
+        }, {
+          "latE7" : 400080909,
+          "lngE7" : -755837860
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400073211,
+        "longitudeE7" : -755831145
+      },
+      "endLocation" : {
+        "latitudeE7" : 399796913,
+        "longitudeE7" : -755661563
+      },
+      "duration" : {
+        "startTimestampMs" : "1452042935208",
+        "endTimestampMs" : "1452083351402"
+      },
+      "distance" : 3391,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400067214,
+          "lngE7" : -755821838
+        }, {
+          "latE7" : 399797706,
+          "lngE7" : -755662994
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399797193,
+        "longitudeE7" : -755661767
+      },
+      "endLocation" : {
+        "latitudeE7" : 399805822,
+        "longitudeE7" : -755667123
+      },
+      "duration" : {
+        "startTimestampMs" : "1452086148940",
+        "endTimestampMs" : "1452087025279"
+      },
+      "distance" : 106,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399797706,
+          "lngE7" : -755662994
+        }, {
+          "latE7" : 399803047,
+          "lngE7" : -755666885
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399813587,
+        "longitudeE7" : -755671943
+      },
+      "endLocation" : {
+        "latitudeE7" : 399826348,
+        "longitudeE7" : -755679863
+      },
+      "duration" : {
+        "startTimestampMs" : "1452088507675",
+        "endTimestampMs" : "1452089241102"
+      },
+      "distance" : 157,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399812622,
+          "lngE7" : -755669708
+        }, {
+          "latE7" : 399825859,
+          "lngE7" : -755679473
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399847611,
+        "longitudeE7" : -755693062
+      },
+      "endLocation" : {
+        "latitudeE7" : 399879092,
+        "longitudeE7" : -755712605
+      },
+      "duration" : {
+        "startTimestampMs" : "1452090712378",
+        "endTimestampMs" : "1452092848335"
+      },
+      "distance" : 387,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399843406,
+          "lngE7" : -755686111
+        }, {
+          "latE7" : 399878768,
+          "lngE7" : -755713348
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399914176,
+        "longitudeE7" : -755734387
+      },
+      "endLocation" : {
+        "latitudeE7" : 399925482,
+        "longitudeE7" : -755741407
+      },
+      "duration" : {
+        "startTimestampMs" : "1452097674874",
+        "endTimestampMs" : "1452098782737"
+      },
+      "distance" : 139,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399914436,
+          "lngE7" : -755736618
+        }, {
+          "latE7" : 399924888,
+          "lngE7" : -755740966
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399948189,
+        "longitudeE7" : -755755507
+      },
+      "endLocation" : {
+        "latitudeE7" : 399969727,
+        "longitudeE7" : -755768881
+      },
+      "duration" : {
+        "startTimestampMs" : "1452102392711",
+        "endTimestampMs" : "1452104646698"
+      },
+      "distance" : 264,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399952125,
+          "lngE7" : -755758666
+        }, {
+          "latE7" : 399972457,
+          "lngE7" : -755776062
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 399981051,
+        "longitudeE7" : -755775913
+      },
+      "endLocation" : {
+        "latitudeE7" : 400034031,
+        "longitudeE7" : -755808818
+      },
+      "duration" : {
+        "startTimestampMs" : "1452106681384",
+        "endTimestampMs" : "1452108503349"
+      },
+      "distance" : 651,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 399981117,
+          "lngE7" : -755776214
+        }, {
+          "latE7" : 400033569,
+          "lngE7" : -755808334
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400034031,
+        "longitudeE7" : -755808818
+      },
+      "endLocation" : {
+        "latitudeE7" : 400097523,
+        "longitudeE7" : -755848259
+      },
+      "duration" : {
+        "startTimestampMs" : "1452108503349",
+        "endTimestampMs" : "1452109009460"
+      },
+      "distance" : 780,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400033302,
+          "lngE7" : -755808029
+        }, {
+          "latE7" : 400097846,
+          "lngE7" : -755848846
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400364539,
+        "longitudeE7" : -755157835
+      },
+      "endLocation" : {
+        "latitudeE7" : 400364948,
+        "longitudeE7" : -755258351
+      },
+      "duration" : {
+        "startTimestampMs" : "1452293060713",
+        "endTimestampMs" : "1452294127634"
+      },
+      "distance" : 854,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400366516,
+          "lngE7" : -755158843
+        }, {
+          "latE7" : 400353164,
+          "lngE7" : -755260467
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400364948,
+        "longitudeE7" : -755258351
+      },
+      "endLocation" : {
+        "latitudeE7" : 400365506,
+        "longitudeE7" : -755399459
+      },
+      "duration" : {
+        "startTimestampMs" : "1452294127634",
+        "endTimestampMs" : "1452295223821"
+      },
+      "distance" : 1166,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400353164,
+          "lngE7" : -755260467
+        }, {
+          "latE7" : 400356864,
+          "lngE7" : -755405120
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400365491,
+        "longitudeE7" : -755395625
+      },
+      "endLocation" : {
+        "latitudeE7" : 400365565,
+        "longitudeE7" : -755414537
+      },
+      "duration" : {
+        "startTimestampMs" : "1452295223821",
+        "endTimestampMs" : "1452295957536"
+      },
+      "distance" : 159,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400365565,
+        "longitudeE7" : -755414537
+      },
+      "endLocation" : {
+        "latitudeE7" : 400365650,
+        "longitudeE7" : -755436459
+      },
+      "duration" : {
+        "startTimestampMs" : "1452296712166",
+        "endTimestampMs" : "1452298585548"
+      },
+      "distance" : 186,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400365650,
+        "longitudeE7" : -755436459
+      },
+      "endLocation" : {
+        "latitudeE7" : 400366278,
+        "longitudeE7" : -755601952
+      },
+      "duration" : {
+        "startTimestampMs" : "1452298585548",
+        "endTimestampMs" : "1452300486548"
+      },
+      "distance" : 1408,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400352592,
+          "lngE7" : -755439147
+        }, {
+          "latE7" : 400366172,
+          "lngE7" : -755602722
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400366278,
+        "longitudeE7" : -755601952
+      },
+      "endLocation" : {
+        "latitudeE7" : 400366830,
+        "longitudeE7" : -755752624
+      },
+      "duration" : {
+        "startTimestampMs" : "1452300486548",
+        "endTimestampMs" : "1452300865158"
+      },
+      "distance" : 686,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400366576,
+        "longitudeE7" : -755682650
+      },
+      "endLocation" : {
+        "latitudeE7" : 400362076,
+        "longitudeE7" : -756203236
+      },
+      "duration" : {
+        "startTimestampMs" : "1452300865158",
+        "endTimestampMs" : "1452302898554"
+      },
+      "distance" : 4563,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400367736,
+          "lngE7" : -755676574
+        }, {
+          "latE7" : 400361366,
+          "lngE7" : -756202697
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400341352,
+        "longitudeE7" : -756175022
+      },
+      "endLocation" : {
+        "latitudeE7" : 400184762,
+        "longitudeE7" : -755961926
+      },
+      "duration" : {
+        "startTimestampMs" : "1452307807323",
+        "endTimestampMs" : "1452341277636"
+      },
+      "distance" : 2514,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400342712,
+          "lngE7" : -756179733
+        }, {
+          "latE7" : 400186729,
+          "lngE7" : -755957412
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400184030,
+        "longitudeE7" : -755960930
+      },
+      "endLocation" : {
+        "latitudeE7" : 400172009,
+        "longitudeE7" : -755944578
+      },
+      "duration" : {
+        "startTimestampMs" : "1452341659948",
+        "endTimestampMs" : "1452342372424"
+      },
+      "distance" : 165,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400185852,
+          "lngE7" : -755956726
+        }, {
+          "latE7" : 400174674,
+          "lngE7" : -755942764
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400166965,
+        "longitudeE7" : -755937716
+      },
+      "endLocation" : {
+        "latitudeE7" : 400117921,
+        "longitudeE7" : -755871011
+      },
+      "duration" : {
+        "startTimestampMs" : "1452343365966",
+        "endTimestampMs" : "1452345413612"
+      },
+      "distance" : 760,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400164985,
+          "lngE7" : -755938339
+        }, {
+          "latE7" : 400110244,
+          "lngE7" : -755868606
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400104427,
+        "longitudeE7" : -755852660
+      },
+      "endLocation" : {
+        "latitudeE7" : 400752702,
+        "longitudeE7" : -751269510
+      },
+      "duration" : {
+        "startTimestampMs" : "1452351982155",
+        "endTimestampMs" : "1452354818474"
+      },
+      "distance" : 39668,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400102386,
+          "lngE7" : -755853347
+        }, {
+          "latE7" : 400753631,
+          "lngE7" : -751265716
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400752702,
+        "longitudeE7" : -751269510
+      },
+      "endLocation" : {
+        "latitudeE7" : 400759118,
+        "longitudeE7" : -751282936
+      },
+      "duration" : {
+        "startTimestampMs" : "1452354818474",
+        "endTimestampMs" : "1452358317423"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400758804,
+          "lngE7" : -751282879,
+          "timestampMs" : "1452358218738",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 400754346,
+          "lngE7" : -751285460,
+          "timestampMs" : "1452358238738",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400759118,
+        "longitudeE7" : -751282936
+      },
+      "endLocation" : {
+        "latitudeE7" : 400106840,
+        "longitudeE7" : -755848610
+      },
+      "duration" : {
+        "startTimestampMs" : "1452358317423",
+        "endTimestampMs" : "1452361059695"
+      },
+      "distance" : 53328,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 400759124,
+          "lngE7" : -751282958
+        }, {
+          "latE7" : 400843162,
+          "lngE7" : -751555252
+        }, {
+          "latE7" : 400516395,
+          "lngE7" : -754571914
+        }, {
+          "latE7" : 400106887,
+          "lngE7" : -755848464
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 400843277,
+          "lngE7" : -751555328,
+          "timestampMs" : "1452358554416",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 400516472,
+          "lngE7" : -754571991,
+          "timestampMs" : "1452359954360",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400105167,
+        "longitudeE7" : -755851924,
+        "placeId" : "ChIJyeJij6jzxokRKWDVxqQm7_s",
+        "address" : "502 Cork Cir\nWest Chester, PA 19380\nUSA",
+        "name" : "502 Cork Cir",
+        "semanticType" : "TYPE_HOME",
+        "locationConfidence" : 99.940704
+      },
+      "duration" : {
+        "startTimestampMs" : "1452361093034",
+        "endTimestampMs" : "1452370140254"
+      },
+      "centerLatE7" : 400105600,
+      "centerLngE7" : -755849967,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 400112180,
+        "longitudeE7" : -755835990,
+        "placeId" : "ChIJ46NDUKjzxokR6GCxRrXaHFs",
+        "name" : "Rubber PLUS",
+        "locationConfidence" : 0.034177974
+      }, {
+        "latitudeE7" : 400105369,
+        "longitudeE7" : -755862214,
+        "placeId" : "ChIJ5bo5L6bzxokRYYi8oo3fFZM",
+        "name" : "Franklin Homescapes",
+        "locationConfidence" : 0.007829012
+      }, {
+        "latitudeE7" : 400113240,
+        "longitudeE7" : -755870050,
+        "placeId" : "ChIJz1ePy6fzxokRUl8eVMn1E_g",
+        "name" : "E-Arm Mortgages LLC",
+        "locationConfidence" : 0.007535757
+      }, {
+        "latitudeE7" : 400120247,
+        "longitudeE7" : -755853599,
+        "placeId" : "ChIJGQz_bajzxokRS5jnTNMOeWY",
+        "name" : "HubuMedia, LLC",
+        "locationConfidence" : 0.0025817596
+      }, {
+        "latitudeE7" : 400086362,
+        "longitudeE7" : -755825468,
+        "placeId" : "ChIJ7cCrKKnzxokRxRbDWh8WrjI",
+        "name" : "Meeting Alliance Llc",
+        "locationConfidence" : 0.0024976002
+      }, {
+        "latitudeE7" : 400099272,
+        "longitudeE7" : -755870397,
+        "placeId" : "ChIJWxmKFabzxokRy3Serhv7dpk",
+        "name" : "Infinity Financial Services LLC",
+        "locationConfidence" : 0.002449132
+      }, {
+        "latitudeE7" : 400090372,
+        "longitudeE7" : -755823410,
+        "placeId" : "ChIJ45fZJanzxokR8QcX6vLSKMQ",
+        "name" : "Giorno Construction & Remodeling",
+        "locationConfidence" : 0.002222449
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
