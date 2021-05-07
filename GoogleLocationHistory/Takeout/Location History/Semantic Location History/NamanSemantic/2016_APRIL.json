@@ -1,0 +1,487 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 193824395,
+        "longitudeE7" : 728321528,
+        "placeId" : "ChIJ5ypMlMGu5zsR3HtK5UTpMD8",
+        "address" : "Vasai Station Rd\nSamarth Krupa Nagar, Vasai East\nVasai-Virar, Maharashtra 401202\nIndia",
+        "name" : "Vasai Road",
+        "sourceInfo" : {
+          "deviceTag" : 783267917
+        },
+        "locationConfidence" : 63.69111
+      },
+      "duration" : {
+        "startTimestampMs" : "1461943688858",
+        "endTimestampMs" : "1461997917770"
+      },
+      "centerLatE7" : 193812791,
+      "centerLngE7" : 728333584,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 193789700,
+        "longitudeE7" : 728330710,
+        "placeId" : "ChIJpdF0EOqu5zsR07vEjq8_qHo",
+        "name" : "Vanmali Sabhagruh",
+        "locationConfidence" : 15.341409
+      }, {
+        "latitudeE7" : 193791757,
+        "longitudeE7" : 728329866,
+        "placeId" : "ChIJA6K9D-qu5zsR0A-H9r9W5og",
+        "name" : "Vartak School",
+        "locationConfidence" : 4.424935
+      }, {
+        "latitudeE7" : 193792980,
+        "longitudeE7" : 728320080,
+        "placeId" : "ChIJVWT5c-qu5zsRdh3WWApEoPc",
+        "name" : "Gallery Garden",
+        "locationConfidence" : 2.6847234
+      }, {
+        "latitudeE7" : 193793390,
+        "longitudeE7" : 728328820,
+        "placeId" : "ChIJWUbZDuqu5zsRl8ppq5dpS6k",
+        "name" : "Vanmali Vidya School",
+        "locationConfidence" : 1.9394159
+      }, {
+        "latitudeE7" : 193802958,
+        "longitudeE7" : 728300686,
+        "placeId" : "ChIJkVwWMMCu5zsRxdsQDHZp26A",
+        "name" : "Vishwakarma Hall",
+        "locationConfidence" : 1.4024657
+      }, {
+        "latitudeE7" : 193789360,
+        "longitudeE7" : 728326340,
+        "placeId" : "ChIJqwsVEuqu5zsRLFaQ3ByM5YI",
+        "name" : "Om Sadhana Co-operative Housing Society",
+        "locationConfidence" : 0.78332907
+      }, {
+        "latitudeE7" : 193792430,
+        "longitudeE7" : 728323900,
+        "placeId" : "ChIJy1LPDOqu5zsR5SGQV0AFohs",
+        "name" : "Bonanza Apartment",
+        "locationConfidence" : 0.42197523
+      }, {
+        "latitudeE7" : 193810318,
+        "longitudeE7" : 728311541,
+        "placeId" : "ChIJRVR9ciHP5zsRW4IerqG0_4o",
+        "name" : "Ravi Hospital",
+        "locationConfidence" : 0.41898948
+      }, {
+        "latitudeE7" : 193823890,
+        "longitudeE7" : 728321620,
+        "placeId" : "ChIJa1VVoMGu5zsR1JMiY99JAsM",
+        "name" : "IIHM",
+        "locationConfidence" : 0.38397262
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 193824395,
+        "longitudeE7" : 728321528
+      },
+      "endLocation" : {
+        "latitudeE7" : 193828367,
+        "longitudeE7" : 728336707
+      },
+      "duration" : {
+        "startTimestampMs" : "1461997917770",
+        "endTimestampMs" : "1461998284032"
+      },
+      "distance" : 165,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 193827800,
+          "lngE7" : 728333587
+        }, {
+          "latE7" : 193828582,
+          "lngE7" : 728333663
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 193828367,
+        "longitudeE7" : 728336707,
+        "placeId" : "ChIJE1Kkf8Gu5zsRAAAAAAAAAAA",
+        "address" : "Samarth Krupa Nagar, Vasai East, Vasai, ठाणे, Maharashtra, India",
+        "sourceInfo" : {
+          "deviceTag" : 783267917
+        },
+        "locationConfidence" : 50.93587
+      },
+      "duration" : {
+        "startTimestampMs" : "1461998284032",
+        "endTimestampMs" : "1462048683957"
+      },
+      "centerLatE7" : 193825628,
+      "centerLngE7" : 728335422,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 193824395,
+        "longitudeE7" : 728321528,
+        "placeId" : "ChIJ5ypMlMGu5zsR3HtK5UTpMD8",
+        "name" : "Vasai Road",
+        "locationConfidence" : 11.151608
+      }, {
+        "latitudeE7" : 193825010,
+        "longitudeE7" : 728328920,
+        "placeId" : "ChIJOQAAANCu5zsRKQ8xPniiUzk",
+        "name" : "STUD",
+        "locationConfidence" : 5.5017233
+      }, {
+        "latitudeE7" : 193827191,
+        "longitudeE7" : 728334435,
+        "placeId" : "ChIJ0YuseMGu5zsRuKV7Z2AQrHY",
+        "name" : "A-1 Sanwala",
+        "locationConfidence" : 4.7547708
+      }, {
+        "latitudeE7" : 193825100,
+        "longitudeE7" : 728333260,
+        "placeId" : "ChIJRVR9ciHP5zsRvCticzxVfAw",
+        "name" : "Saffron Suites",
+        "locationConfidence" : 3.727594
+      }, {
+        "latitudeE7" : 193828400,
+        "longitudeE7" : 728331280,
+        "placeId" : "ChIJBU4teMGu5zsR91lZJPyOvSg",
+        "name" : "MSEB Office",
+        "locationConfidence" : 3.4387674
+      }, {
+        "latitudeE7" : 193828668,
+        "longitudeE7" : 728334485,
+        "placeId" : "ChIJ-T_VeMGu5zsREfclAeh8I4w",
+        "name" : "Pingara",
+        "locationConfidence" : 2.1070418
+      }, {
+        "latitudeE7" : 193842390,
+        "longitudeE7" : 728341770,
+        "placeId" : "ChIJCbyt4MOu5zsRr97DF04e4oU",
+        "name" : "Shree Trikutaa Square Meals (P) Limited - Chadaro",
+        "locationConfidence" : 2.0179682
+      }, {
+        "latitudeE7" : 193827223,
+        "longitudeE7" : 728336431,
+        "placeId" : "ChIJ1xbHgcGu5zsRvS4gC0o9uao",
+        "name" : "Nitin Cooperative Housing Society",
+        "locationConfidence" : 1.6983005
+      }, {
+        "latitudeE7" : 193825100,
+        "longitudeE7" : 728333260,
+        "placeId" : "ChIJaQNNgsGu5zsRwrgeSEbcr2c",
+        "name" : "Ollwyn Jumbo Xerox",
+        "locationConfidence" : 1.631294
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 193828367,
+        "longitudeE7" : 728336707
+      },
+      "endLocation" : {
+        "latitudeE7" : 193824395,
+        "longitudeE7" : 728321528
+      },
+      "duration" : {
+        "startTimestampMs" : "1462048683957",
+        "endTimestampMs" : "1462048983027"
+      },
+      "distance" : 165,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_CABLECAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_FUNICULAR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KAYAKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "KITESURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "ROWING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SKATEBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SLEDDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWBOARDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWMOBILE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SNOWSHOEING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SURFING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "SWIMMING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING_NORDIC",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_WHEELCHAIR",
+        "probability" : 0.0
+      }, {
+        "activityType" : "HORSEBACK_RIDING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_GONDOLA_LIFT",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 193828582,
+          "lngE7" : 728333663
+        }, {
+          "latE7" : 193825626,
+          "lngE7" : 728333435
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 193824395,
+        "longitudeE7" : 728321528,
+        "placeId" : "ChIJ5ypMlMGu5zsR3HtK5UTpMD8",
+        "address" : "Vasai Station Rd\nSamarth Krupa Nagar, Vasai East\nVasai-Virar, Maharashtra 401202\nIndia",
+        "name" : "Vasai Road",
+        "sourceInfo" : {
+          "deviceTag" : 783267917
+        },
+        "locationConfidence" : 64.88085
+      },
+      "duration" : {
+        "startTimestampMs" : "1462048983027",
+        "endTimestampMs" : "1462067660222"
+      },
+      "centerLatE7" : 193791668,
+      "centerLngE7" : 728330086,
+      "visitConfidence" : 62,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 193789700,
+        "longitudeE7" : 728330710,
+        "placeId" : "ChIJpdF0EOqu5zsR07vEjq8_qHo",
+        "name" : "Vanmali Sabhagruh",
+        "locationConfidence" : 10.824813
+      }, {
+        "latitudeE7" : 193791757,
+        "longitudeE7" : 728329866,
+        "placeId" : "ChIJA6K9D-qu5zsR0A-H9r9W5og",
+        "name" : "Vartak School",
+        "locationConfidence" : 3.5844793
+      }, {
+        "latitudeE7" : 193793390,
+        "longitudeE7" : 728328820,
+        "placeId" : "ChIJWUbZDuqu5zsRl8ppq5dpS6k",
+        "name" : "Vanmali Vidya School",
+        "locationConfidence" : 2.5425446
+      }, {
+        "latitudeE7" : 193792980,
+        "longitudeE7" : 728320080,
+        "placeId" : "ChIJVWT5c-qu5zsRdh3WWApEoPc",
+        "name" : "Gallery Garden",
+        "locationConfidence" : 1.4843724
+      }, {
+        "latitudeE7" : 193802958,
+        "longitudeE7" : 728300686,
+        "placeId" : "ChIJkVwWMMCu5zsRxdsQDHZp26A",
+        "name" : "Vishwakarma Hall",
+        "locationConfidence" : 1.369758
+      }, {
+        "latitudeE7" : 193795440,
+        "longitudeE7" : 728329020,
+        "placeId" : "ChIJDVz9COqu5zsRKg_Otx6UwLg",
+        "name" : "Hi-Speed Techno Solutions",
+        "locationConfidence" : 1.1242187
+      }, {
+        "latitudeE7" : 193796639,
+        "longitudeE7" : 728325590,
+        "placeId" : "ChIJLR5kCuqu5zsRZXh0LZelyAM",
+        "name" : "Chanchal Tower",
+        "locationConfidence" : 0.62067455
+      }, {
+        "latitudeE7" : 193818590,
+        "longitudeE7" : 728313310,
+        "placeId" : "ChIJCQBArsGu5zsRTxMAf9MMvvA",
+        "name" : "Hotel Vrindavan",
+        "locationConfidence" : 0.5809717
+      }, {
+        "latitudeE7" : 193799928,
+        "longitudeE7" : 728315315,
+        "placeId" : "ChIJW8m00MGu5zsRiNEIFjYDQMo",
+        "name" : "BSNL Office",
+        "locationConfidence" : 0.51711875
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
